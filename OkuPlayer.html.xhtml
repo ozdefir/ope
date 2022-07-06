@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en" xml:lang="en">
+  <head>
+
+  </head>
+  <body>
+    <script>
+        var targetContent;
+        target = location.href.replace(".html.xhtml", ".html")
+        console.log(target);
+        fetch(target)
+        .then(response => response.text())
+        .then(text => {
+            targetContent = text;
+            tempDoc = document.createElement("iframe");
+            tempDoc.srcdoc = targetContent;
+//            tempDoc.src = target;
+            document.body.appendChild(tempDoc);
+        });
+
+    </script>
+  </body>
+</html>
