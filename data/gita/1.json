@@ -1,0 +1,3631 @@
+{
+      "fragments": [
+            {
+                  "begin": "0",
+                  "end": "1.872",
+                  "id": "f000001",
+                  "language": "en",
+                  "lines": [
+                        "THE BHAGAVAD GITA"
+                  ]
+            },
+            {
+                  "begin": "1.872",
+                  "end": "5.784",
+                  "id": "f000002",
+                  "language": "en",
+                  "lines": [
+                        "COMPILED FROM VARIOUS WRITERS, 1895"
+                  ]
+            },
+            {
+                  "begin": "5.784",
+                  "end": "7.92",
+                  "id": "f000003",
+                  "language": "en",
+                  "lines": [
+                        "ENGLISH TRANSLATIONS."
+                  ]
+            },
+            {
+                  "begin": "7.92",
+                  "end": "10.344",
+                  "id": "f000004",
+                  "language": "en",
+                  "lines": [
+                        "Of these there have been several."
+                  ]
+            },
+            {
+                  "begin": "10.344",
+                  "end": "19.632",
+                  "id": "f000005",
+                  "language": "en",
+                  "lines": [
+                        "The first was made in 1785, by Sir Charles Wilkins, to which was prefixed an Introduction by Warren Hastings."
+                  ]
+            },
+            {
+                  "begin": "19.632",
+                  "end": "29.16",
+                  "id": "f000006",
+                  "language": "en",
+                  "lines": [
+                        "This forms the basis of the translation in this volume, but it has been carefully revised by comparing it with more recent translations."
+                  ]
+            },
+            {
+                  "begin": "29.16",
+                  "end": "33.792",
+                  "id": "f000007",
+                  "language": "en",
+                  "lines": [
+                        "It has been taken from an edition edited by the Rev. J."
+                  ]
+            },
+            {
+                  "begin": "33.792",
+                  "end": "47.448",
+                  "id": "f000008",
+                  "language": "en",
+                  "lines": [
+                        "Garrett in 1846, containing the Sanskrit, Canarese, and English in parallel columns, for a copy of which the compiler is indebted to Colonel Jacob, translator of the Ved\u00fanta S\u00e1ra."
+                  ]
+            },
+            {
+                  "begin": "47.448",
+                  "end": "55.296",
+                  "id": "f000009",
+                  "language": "en",
+                  "lines": [
+                        "The next translation was made by Mr. J. C. Thompson in 1855, and published by Tr\u00fcbner."
+                  ]
+            },
+            {
+                  "begin": "55.296",
+                  "end": "63.12",
+                  "id": "f000010",
+                  "language": "en",
+                  "lines": [
+                        "Mr. Kasinath Trimbak Telang, of Bombay, published an English translation in 1875."
+                  ]
+            },
+            {
+                  "begin": "63.12",
+                  "end": "71.184",
+                  "id": "f000011",
+                  "language": "en",
+                  "lines": [
+                        "This, probably revised, was adopted in 1887 by Max M\u00fcller in the \u201cSacred Books of the East.\u201d"
+                  ]
+            },
+            {
+                  "begin": "71.184",
+                  "end": "78.36",
+                  "id": "f000012",
+                  "language": "en",
+                  "lines": [
+                        "The author, in the Preface, gives the following account of the general principles followed in the translation:"
+                  ]
+            },
+            {
+                  "begin": "78.36",
+                  "end": "92.184",
+                  "id": "f000013",
+                  "language": "en",
+                  "lines": [
+                        "\u201cMy aim has been to make that translation as close and literal a rendering as possible of the Git\u00e2, as interpreted by the commentators Sankar\u00e2 k\u00e2rya, Sridharasv\u00e2min, and Madhus\u00fbdana Sarasvat\u00ee."
+                  ]
+            },
+            {
+                  "begin": "92.184",
+                  "end": "99.984",
+                  "id": "f000014",
+                  "language": "en",
+                  "lines": [
+                        "Reference has also been frequently made to the commentary of R\u00e2m\u00e2nug\u00e2k\u00e2rya and also to that of N\u00eelakantha.\u201d"
+                  ]
+            },
+            {
+                  "begin": "99.984",
+                  "end": "108.552",
+                  "id": "f000015",
+                  "language": "en",
+                  "lines": [
+                        "In 1882, a translation was published by the Rev. John Davies in Tr\u00fcbner's \u201cOriental Series.\u201d"
+                  ]
+            },
+            {
+                  "begin": "108.552",
+                  "end": "113.472",
+                  "id": "f000016",
+                  "language": "en",
+                  "lines": [
+                        "The translation is excellent, and there are numerous valuable notes."
+                  ]
+            },
+            {
+                  "begin": "113.472",
+                  "end": "121.272",
+                  "id": "f000017",
+                  "language": "en",
+                  "lines": [
+                        "About 1888, a translation, with commentary by J. M. Chatterji, was published by Tr\u00fcbner."
+                  ]
+            },
+            {
+                  "begin": "121.272",
+                  "end": "131.496",
+                  "id": "f000018",
+                  "language": "en",
+                  "lines": [
+                        "In 1895 a translation, professedly by Mrs. Besant, was published by the Theosophical Publishing Society."
+                  ]
+            },
+            {
+                  "begin": "131.496",
+                  "end": "141.432",
+                  "id": "f000019",
+                  "language": "en",
+                  "lines": [
+                        "She acknowledges that her knowledge of Sanskrit is imperfect; but her translation has passed through the hands of Indian gentlemen whose names are given."
+                  ]
+            },
+            {
+                  "begin": "141.432",
+                  "end": "144.312",
+                  "id": "f000020",
+                  "language": "en",
+                  "lines": [
+                        "Many of the technical terms are retained."
+                  ]
+            },
+            {
+                  "begin": "144.312",
+                  "end": "147.576",
+                  "id": "f000021",
+                  "language": "en",
+                  "lines": [
+                        "Some of the renderings are happily expressed."
+                  ]
+            },
+            {
+                  "begin": "147.576",
+                  "end": "155.808",
+                  "id": "f000022",
+                  "language": "en",
+                  "lines": [
+                        "There is a very free poetical translation by Sir Edwin Arnold, entitled \u201cThe Song Celestial.\u201d , "
+                  ]
+            },
+            {
+                  "begin": "155.808",
+                  "end": "161.064",
+                  "id": "f000023",
+                  "language": "en",
+                  "lines": [
+                        "The translations differ considerably with regard to particular verses."
+                  ]
+            },
+            {
+                  "begin": "161.064",
+                  "end": "170.4",
+                  "id": "f000024",
+                  "language": "en",
+                  "lines": [
+                        "Indian commentators belonging to the Dwaita, Adwaita, and Visishtadwaita Sects, try to make the poem express their own views."
+                  ]
+            },
+            {
+                  "begin": "170.4",
+                  "end": "176.952",
+                  "id": "f000025",
+                  "language": "en",
+                  "lines": [
+                        "The main features of the work, however, are given, more or less correctly, in all of them."
+                  ]
+            },
+            {
+                  "begin": "176.952",
+                  "end": "178.872",
+                  "id": "f000026",
+                  "language": "en",
+                  "lines": [
+                        "THE BHAGAVAD GITA,"
+                  ]
+            },
+            {
+                  "begin": "178.872",
+                  "end": "179.688",
+                  "id": "f000027",
+                  "language": "en",
+                  "lines": [
+                        "OR"
+                  ]
+            },
+            {
+                  "begin": "179.688",
+                  "end": "181.272",
+                  "id": "f000028",
+                  "language": "en",
+                  "lines": [
+                        "THE DIVINE SONG."
+                  ]
+            },
+            {
+                  "begin": "181.272",
+                  "end": "182.472",
+                  "id": "f000029",
+                  "language": "en",
+                  "lines": [
+                        "LECTURE 1"
+                  ]
+            },
+            {
+                  "begin": "182.472",
+                  "end": "184.32",
+                  "id": "f000030",
+                  "language": "en",
+                  "lines": [
+                        "\u201cTHE GRIEF OF ARJUNA.\u201d"
+                  ]
+            },
+            {
+                  "begin": "184.32",
+                  "end": "186.24",
+                  "id": "f000031",
+                  "language": "en",
+                  "lines": [
+                        "DARITARASHTRA said."
+                  ]
+            },
+            {
+                  "begin": "186.24",
+                  "end": "196.584",
+                  "id": "f000032",
+                  "language": "en",
+                  "lines": [
+                        "Tell me, O Sanjaya, what the people of my own party, and those of the Pandavas, who are assembled at Kurukshetra resolved for war, have been doing."
+                  ]
+            },
+            {
+                  "begin": "196.584",
+                  "end": "198.192",
+                  "id": "f000033",
+                  "language": "en",
+                  "lines": [
+                        "SANJAYA replied."
+                  ]
+            },
+            {
+                  "begin": "198.192",
+                  "end": "207.24",
+                  "id": "f000034",
+                  "language": "en",
+                  "lines": [
+                        "Duryodhana having seen the army of the Pandavas drawn up for battle, went to his preceptor, and addressed him in the following words:"
+                  ]
+            },
+            {
+                  "begin": "207.24",
+                  "end": "208.272",
+                  "id": "f000035",
+                  "language": "en",
+                  "lines": [
+                        "\u201cBehold!"
+                  ]
+            },
+            {
+                  "begin": "208.272",
+                  "end": "217.008",
+                  "id": "f000036",
+                  "language": "en",
+                  "lines": [
+                        "O master,\u201d said he, \u201cthe mighty army of the sons of Pandu drawn forth by thy pupil, the experienced son of Drupada."
+                  ]
+            },
+            {
+                  "begin": "217.008",
+                  "end": "241.272",
+                  "id": "f000037",
+                  "language": "en",
+                  "lines": [
+                        "In it are heroes, such as Bh\u00edma and Arjuna: there is Yuyudh\u00e1na, and Vir\u00e1ta, and Drupada, and Drishtaketu, and Chekit\u00e1na, and the valiant prince of K\u00e1si, and Purujit, and Kuntibhoja, and Saivya a mighty chief, and Yudh\u00e1manyu the bold, and the daring Uttamaujas; the son of Subadr\u00e1, and the sons of Drupad\u00ed, all of great cars."
+                  ]
+            },
+            {
+                  "begin": "241.272",
+                  "end": "247.344",
+                  "id": "f000038",
+                  "language": "en",
+                  "lines": [
+                        "\u201cBe acquainted also with the names of those of our party, who are the most distinguished."
+                  ]
+            },
+            {
+                  "begin": "247.344",
+                  "end": "253.224",
+                  "id": "f000039",
+                  "language": "en",
+                  "lines": [
+                        "I will mention a few of those who are amongst my generals, by way of example."
+                  ]
+            },
+            {
+                  "begin": "253.224",
+                  "end": "267.24",
+                  "id": "f000040",
+                  "language": "en",
+                  "lines": [
+                        "There is thyself, Bh\u00edshma and Karna and Kripa conquering in battle, and Aswattham\u00e1n and Vikarna, and the son of Somadatta, with others in vast numbers who for my service have forsaken the love of life."
+                  ]
+            },
+            {
+                  "begin": "267.24",
+                  "end": "273.72",
+                  "id": "f000041",
+                  "language": "en",
+                  "lines": [
+                        "They are all of them practised in the use of arms, and experienced in every mode of fight."
+                  ]
+            },
+            {
+                  "begin": "273.72",
+                  "end": "281.616",
+                  "id": "f000042",
+                  "language": "en",
+                  "lines": [
+                        "Our innumerable forces are commanded by Bh\u00edshma, and the inconsiderable army of our foes is led by Bh\u00edma."
+                  ]
+            },
+            {
+                  "begin": "281.616",
+                  "end": "290.472",
+                  "id": "f000043",
+                  "language": "en",
+                  "lines": [
+                        "Let all the generals, according to their respective divisions, stand in their posts, and one and all resolve to support Bh\u00edshma.\u201d"
+                  ]
+            },
+            {
+                  "begin": "290.472",
+                  "end": "309.936",
+                  "id": "f000044",
+                  "language": "en",
+                  "lines": [
+                        "The ancient chief and brother of the grandsire of the Kurus, then, shouting with a voice like a roaring lion, blew his shell to raise the spirits of the Kuru chief; and instantly innumerable shells, and other warlike instruments, were struck up on all sides, so that the clangour was excessive."
+                  ]
+            },
+            {
+                  "begin": "309.936",
+                  "end": "317.184",
+                  "id": "f000045",
+                  "language": "en",
+                  "lines": [
+                        "At this time M\u00e1dhava and Arjuna were standing in a splendid chariot, drawn by white horses."
+                  ]
+            },
+            {
+                  "begin": "317.184",
+                  "end": "328.608",
+                  "id": "f000046",
+                  "language": "en",
+                  "lines": [
+                        "They also sounded their shells, which were of celestial form: the name of the one which was blown by Hrishikesha, was P\u00e1nchajanya and that of Dhananjaya was called Devadatta."
+                  ]
+            },
+            {
+                  "begin": "328.608",
+                  "end": "338.136",
+                  "id": "f000047",
+                  "language": "en",
+                  "lines": [
+                        "Bh\u00edma, of dreadful deeds, blew his capacious shell Paundra, and Yudhishtira, the royal son of Kunt\u00ed, sounded Anantavijaya."
+                  ]
+            },
+            {
+                  "begin": "338.136",
+                  "end": "345.288",
+                  "id": "f000048",
+                  "language": "en",
+                  "lines": [
+                        "Nakula and Sahadeva blew their shells also; the one called Sughosha, the other Manipushpaka."
+                  ]
+            },
+            {
+                  "begin": "345.288",
+                  "end": "353.256",
+                  "id": "f000049",
+                  "language": "en",
+                  "lines": [
+                        "The prince of K\u00e1si of the mighty bow, Sakandin Drishtadyumna, Vir\u00e1ta, S\u00e1tyaki of invincible arm."
+                  ]
+            },
+            {
+                  "begin": "353.256",
+                  "end": "364.032",
+                  "id": "f000050",
+                  "language": "en",
+                  "lines": [
+                        "Drupada and the sons of his royal daughter, Krishna, with the son of Subhadr\u00e1, and all the other chiefs and nobles, blew also their respective shells."
+                  ]
+            },
+            {
+                  "begin": "364.032",
+                  "end": "372.888",
+                  "id": "f000051",
+                  "language": "en",
+                  "lines": [
+                        "So that their shrill-sounding voices pierced the hearts of the Kurus, and re-echoed with a dreadful noise from heaven to earth."
+                  ]
+            },
+            {
+                  "begin": "372.888",
+                  "end": "388.368",
+                  "id": "f000052",
+                  "language": "en",
+                  "lines": [
+                        "In the meantime Arjuna, he whose ensign is an ape, perceiving that the sons of Dhritarashtra stood ready to begin the fight, and that the weapons began to fly abroad, having taken up his bow, [ addressed Krishna in the following words: ]"
+                  ]
+            },
+            {
+                  "begin": "388.368",
+                  "end": "408.672",
+                  "id": "f000053",
+                  "language": "en",
+                  "lines": [
+                        "\u201cI pray thee, O Achyuta, cause my chariot to be driven and placed between the two armies, that I may behold who are the men that stand ready, anxious to commence the bloody fight; and with whom it is that I am to fight; and who they are that are here assembled to support the vindictive son of Dritarashtra in the battle.\u201d"
+                  ]
+            },
+            {
+                  "begin": "408.672",
+                  "end": "410.016",
+                  "id": "f000054",
+                  "language": "en",
+                  "lines": [
+                        "SANJAYA said."
+                  ]
+            },
+            {
+                  "begin": "410.016",
+                  "end": "429.576",
+                  "id": "f000055",
+                  "language": "en",
+                  "lines": [
+                        "Krishna being thus addressed by Gudakesa, drove the chariot; and, having caused it to halt in the midst of the space in front of the two armies, bade Arjuna cast his eyes towards the ranks of the Kurus, and behold where stood the aged Bh\u00edsma, and Drona, with all the chief nobles of their party."
+                  ]
+            },
+            {
+                  "begin": "429.576",
+                  "end": "441.672",
+                  "id": "f000056",
+                  "language": "en",
+                  "lines": [
+                        "He looked at both the armies, and beheld, on either side, none but grandsires, uncles, cousins, tutors, sons, and brothers, near relations or bosom friends.'"
+                  ]
+            },
+            {
+                  "begin": "441.672",
+                  "end": "452.712",
+                  "id": "f000057",
+                  "language": "en",
+                  "lines": [
+                        "Then when he had gazed for a while and beheld such friends as these prepared for the fight, he was overcome by deepest pity, and uttered his sorrow in the following words:"
+                  ]
+            },
+            {
+                  "begin": "452.712",
+                  "end": "454.104",
+                  "id": "f000058",
+                  "language": "en",
+                  "lines": [
+                        "ARJUNA said."
+                  ]
+            },
+            {
+                  "begin": "454.104",
+                  "end": "467.736",
+                  "id": "f000059",
+                  "language": "en",
+                  "lines": [
+                        "\u201cHaving beheld, O Krishna! my kindred thus standing anxious for the fight, my limbs fail me, my mouth is dried up, the hair standeth on end upon my body, and all my frame trembleth!"
+                  ]
+            },
+            {
+                  "begin": "467.736",
+                  "end": "473.544",
+                  "id": "f000060",
+                  "language": "en",
+                  "lines": [
+                        "Even G\u00e1nd\u00edva, my bow, falleth from my hand, and my skin burneth."
+                  ]
+            },
+            {
+                  "begin": "473.544",
+                  "end": "478.896",
+                  "id": "f000061",
+                  "language": "en",
+                  "lines": [
+                        "I am not able to stand; for my mind, as it were, turneth round."
+                  ]
+            },
+            {
+                  "begin": "478.896",
+                  "end": "484.728",
+                  "id": "f000062",
+                  "language": "en",
+                  "lines": [
+                        "Also, O Keshava, I behold inauspicious omens on all sides."
+                  ]
+            },
+            {
+                  "begin": "484.728",
+                  "end": "490.152",
+                  "id": "f000063",
+                  "language": "en",
+                  "lines": [
+                        "When I shall have destroyed my kindred, shall I longer look for happiness?"
+                  ]
+            },
+            {
+                  "begin": "490.152",
+                  "end": "510.36",
+                  "id": "f000064",
+                  "language": "en",
+                  "lines": [
+                        "I wish not for victory, Krishna, for dominion, or pleasure; for what is dominion, and the enjoyment of life, or even life itself, when those, for whom dominion, pleasure, and enjoyment were to be coveted, have abandoned life and fortune, and stand here in the field ready for the battle?"
+                  ]
+            },
+            {
+                  "begin": "510.36",
+                  "end": "521.448",
+                  "id": "f000065",
+                  "language": "en",
+                  "lines": [
+                        "Preceptors, fathers, sons as well as grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, as also (other) relatives!"
+                  ]
+            },
+            {
+                  "begin": "521.448",
+                  "end": "530.28",
+                  "id": "f000066",
+                  "language": "en",
+                  "lines": [
+                        "These I do not wish to kill though they kill (me); not even for the sovereignty of the three worlds, how much less then for this earth!"
+                  ]
+            },
+            {
+                  "begin": "530.28",
+                  "end": "537.288",
+                  "id": "f000067",
+                  "language": "en",
+                  "lines": [
+                        "Having killed the sons of Dritarashtra, what pleasure, O destroyer of Madhu, can we enjoy?"
+                  ]
+            },
+            {
+                  "begin": "537.288",
+                  "end": "541.32",
+                  "id": "f000068",
+                  "language": "en",
+                  "lines": [
+                        "Should we destroy these felons we shall only incur sin."
+                  ]
+            },
+            {
+                  "begin": "541.32",
+                  "end": "546.456",
+                  "id": "f000069",
+                  "language": "en",
+                  "lines": [
+                        "It therefore behoveth us not to kill such near relations as these."
+                  ]
+            },
+            {
+                  "begin": "546.456",
+                  "end": "551.856",
+                  "id": "f000070",
+                  "language": "en",
+                  "lines": [
+                        "How, O Krishna, can we be happy after killing our own relatives?"
+                  ]
+            },
+            {
+                  "begin": "551.856",
+                  "end": "570.048",
+                  "id": "f000071",
+                  "language": "en",
+                  "lines": [
+                        "What if they, whose minds are depraved by the lust of power, see no sin in the extirpation of their race, no crime in the murder of their friends, is that a reason why we should not resolve to turn away from such a crime, we who abhor the sin of extirpating the kindred of our blood?"
+                  ]
+            },
+            {
+                  "begin": "570.048",
+                  "end": "575.856",
+                  "id": "f000072",
+                  "language": "en",
+                  "lines": [
+                        "In the destruction of a family, the eternal rites of families are destroyed."
+                  ]
+            },
+            {
+                  "begin": "575.856",
+                  "end": "580.344",
+                  "id": "f000073",
+                  "language": "en",
+                  "lines": [
+                        "By the destruction of rites, the tribe becometh impious."
+                  ]
+            },
+            {
+                  "begin": "580.344",
+                  "end": "590.016",
+                  "id": "f000074",
+                  "language": "en",
+                  "lines": [
+                        "From the influence of impiety the females of a family grow vicious; and from women that are become vicious the confusion of castes arises."
+                  ]
+            },
+            {
+                  "begin": "590.016",
+                  "end": "601.824",
+                  "id": "f000075",
+                  "language": "en",
+                  "lines": [
+                        "This confusion provideth hell both for those which are slain and those which survive; and their forefathers, being deprived of pindas? and water, fall (from heaven)."
+                  ]
+            },
+            {
+                  "begin": "601.824",
+                  "end": "622.824",
+                  "id": "f000076",
+                  "language": "en",
+                  "lines": [
+                        "By the crimes of those who murder their own relations, sore cause of contamination and birth of caste-confusion, the family virtue, and the virtue of a whole tribe is for ever done away; and we have been told, O Krishna, that the habitation of those mortals whose generation hath lost its virtue, shall be in hell."
+                  ]
+            },
+            {
+                  "begin": "622.824",
+                  "end": "627.048",
+                  "id": "f000077",
+                  "language": "en",
+                  "lines": [
+                        "Woe is me! what a great crime are we prepared to commit!"
+                  ]
+            },
+            {
+                  "begin": "627.048",
+                  "end": "635.016",
+                  "id": "f000078",
+                  "language": "en",
+                  "lines": [
+                        "Alas! that for the lust of the enjoyments of dominion we stand here ready to murder the kindred of our own blood!"
+                  ]
+            },
+            {
+                  "begin": "635.016",
+                  "end": "645.84",
+                  "id": "f000079",
+                  "language": "en",
+                  "lines": [
+                        "I would rather patiently suffer that the sons of Dritarashtra with their weapons in their hands, should come upon me, and, unopposed, kill me unarmed in the field.\u201d"
+                  ]
+            },
+            {
+                  "begin": "645.84",
+                  "end": "647.184",
+                  "id": "f000080",
+                  "language": "en",
+                  "lines": [
+                        "SANJAYA said."
+                  ]
+            },
+            {
+                  "begin": "647.184",
+                  "end": "656.544",
+                  "id": "f000081",
+                  "language": "en",
+                  "lines": [
+                        "Having spoken thus, Arjuna sat down in his chariot; and having put away his bow and arrows, his heart was overwhelmed with grief."
+                  ]
+            },
+            {
+                  "begin": "656.544",
+                  "end": "657.648",
+                  "id": "f000082",
+                  "language": "en",
+                  "lines": [
+                        "LECTURE 2"
+                  ]
+            },
+            {
+                  "begin": "657.648",
+                  "end": "660",
+                  "id": "f000083",
+                  "language": "en",
+                  "lines": [
+                        "\u201cTHE SANKHYA-YOGA DOCTRINE.\u201d"
+                  ]
+            },
+            {
+                  "begin": "660",
+                  "end": "661.344",
+                  "id": "f000084",
+                  "language": "en",
+                  "lines": [
+                        "SANJAYA said."
+                  ]
+            },
+            {
+                  "begin": "661.344",
+                  "end": "670.392",
+                  "id": "f000085",
+                  "language": "en",
+                  "lines": [
+                        "Krishna beholding him thus overcome with pity, his eyes full of tears, and his heart oppressed with deep affliction, thus spoke:"
+                  ]
+            },
+            {
+                  "begin": "670.392",
+                  "end": "671.736",
+                  "id": "f000086",
+                  "language": "en",
+                  "lines": [
+                        "KRISHNA said."
+                  ]
+            },
+            {
+                  "begin": "671.736",
+                  "end": "682.44",
+                  "id": "f000087",
+                  "language": "en",
+                  "lines": [
+                        "\u201cWhence, O Arjuna, cometh unto thee, thus standing in the field of battle, this unworthy weakness, excluding from heaven, and causing disgrace?"
+                  ]
+            },
+            {
+                  "begin": "682.44",
+                  "end": "687.6",
+                  "id": "f000088",
+                  "language": "en",
+                  "lines": [
+                        "Yield not thus to unmanliness, for it ill becometh one like thee."
+                  ]
+            },
+            {
+                  "begin": "687.6",
+                  "end": "693.744",
+                  "id": "f000089",
+                  "language": "en",
+                  "lines": [
+                        "Cast off this base faint-heartedness, and stand up, O conqueror of foes.\u201d"
+                  ]
+            },
+            {
+                  "begin": "693.744",
+                  "end": "695.304",
+                  "id": "f000090",
+                  "language": "en",
+                  "lines": [
+                        "ARJUNA , said."
+                  ]
+            },
+            {
+                  "begin": "695.304",
+                  "end": "706.56",
+                  "id": "f000091",
+                  "language": "en",
+                  "lines": [
+                        "\u201cHow, O Krishna, shall I resolve to fight with my arrows in the field against such as Bh\u00edshma and Drona, who, of all men, are most worthy of my respect?"
+                  ]
+            },
+            {
+                  "begin": "706.56",
+                  "end": "714.312",
+                  "id": "f000092",
+                  "language": "en",
+                  "lines": [
+                        "I would rather beg my bread about the world, than be the murderer of my preceptors, to whom such reverence is due."
+                  ]
+            },
+            {
+                  "begin": "714.312",
+                  "end": "722.544",
+                  "id": "f000093",
+                  "language": "en",
+                  "lines": [
+                        "Should I destroy such friends as these, I should partake of possessions, wealth, and pleasures, polluted with their blood."
+                  ]
+            },
+            {
+                  "begin": "722.544",
+                  "end": "736.608",
+                  "id": "f000094",
+                  "language": "en",
+                  "lines": [
+                        "We know not whether it would be better that we should defeat them, or they us; for those, whom having killed, I should not wish to live, are even the sons and people of Dritarashtra who are here drawn up before us."
+                  ]
+            },
+            {
+                  "begin": "736.608",
+                  "end": "740.712",
+                  "id": "f000095",
+                  "language": "en",
+                  "lines": [
+                        "My compassionate nature is overcome by the dread of sin."
+                  ]
+            },
+            {
+                  "begin": "740.712",
+                  "end": "743.928",
+                  "id": "f000096",
+                  "language": "en",
+                  "lines": [
+                        "Tell me truly what may be best for me to do."
+                  ]
+            },
+            {
+                  "begin": "743.928",
+                  "end": "754.56",
+                  "id": "f000097",
+                  "language": "en",
+                  "lines": [
+                        "I am thy disciple, wherefore instruct me in my duty, who am under thy tuition; for my understanding is confounded by the dictates of my duty."
+                  ]
+            },
+            {
+                  "begin": "754.56",
+                  "end": "765.768",
+                  "id": "f000098",
+                  "language": "en",
+                  "lines": [
+                        "And I see nothing that may assuage the grief which drieth up my faculties, although I were to obtain a kingdom without a rival upon earth, or dominion over the gods.\u201d"
+                  ]
+            },
+            {
+                  "begin": "765.768",
+                  "end": "767.376",
+                  "id": "f000099",
+                  "language": "en",
+                  "lines": [
+                        "SANJAYA , said."
+                  ]
+            },
+            {
+                  "begin": "767.376",
+                  "end": "773.784",
+                  "id": "f000100",
+                  "language": "en",
+                  "lines": [
+                        "Arjuna having thus spoken to Krishna, and declared that he would not fight, was silent."
+                  ]
+            },
+            {
+                  "begin": "773.784",
+                  "end": "781.992",
+                  "id": "f000101",
+                  "language": "en",
+                  "lines": [
+                        "Krishna, smiling, addressed the afflicted prince, standing in the midst of the two armies, in the following words:"
+                  ]
+            },
+            {
+                  "begin": "781.992",
+                  "end": "783.648",
+                  "id": "f000102",
+                  "language": "en",
+                  "lines": [
+                        "KRISHNA , said."
+                  ]
+            },
+            {
+                  "begin": "783.648",
+                  "end": "790.272",
+                  "id": "f000103",
+                  "language": "en",
+                  "lines": [
+                        "Thou grievest for those who are unworthy to be lamented, but thou speakest words of wisdom."
+                  ]
+            },
+            {
+                  "begin": "790.272",
+                  "end": "793.944",
+                  "id": "f000104",
+                  "language": "en",
+                  "lines": [
+                        "The wise neither grieve for the dead nor for the living."
+                  ]
+            },
+            {
+                  "begin": "793.944",
+                  "end": "801.96",
+                  "id": "f000105",
+                  "language": "en",
+                  "lines": [
+                        "I myself never was not, nor thou, nor all the princes of the earth; nor shall we ever hereafter cease to be."
+                  ]
+            },
+            {
+                  "begin": "801.96",
+                  "end": "810.288",
+                  "id": "f000106",
+                  "language": "en",
+                  "lines": [
+                        "As the soul in this body findeth infancy, youth, and old age; so, in some body, will it find the like."
+                  ]
+            },
+            {
+                  "begin": "810.288",
+                  "end": "816.624",
+                  "id": "f000107",
+                  "language": "en",
+                  "lines": [
+                        "One who is confirmed in this belief, is not disturbed by anything that may come to pass."
+                  ]
+            },
+            {
+                  "begin": "816.624",
+                  "end": "825.432",
+                  "id": "f000108",
+                  "language": "en",
+                  "lines": [
+                        "The contacts of the senses give heat and cold, pleasure and pain; which come and go, and are transient and inconstant."
+                  ]
+            },
+            {
+                  "begin": "825.432",
+                  "end": "836.568",
+                  "id": "f000109",
+                  "language": "en",
+                  "lines": [
+                        "Bear them with patience, O son of Bh\u00e1rata; for the wise man, whom these disturb not, and to whom pain and pleasure are the same, is fitted for immortality."
+                  ]
+            },
+            {
+                  "begin": "836.568",
+                  "end": "843.312",
+                  "id": "f000110",
+                  "language": "en",
+                  "lines": [
+                        "A thing unreal hath no existence, whilst that which is real is a stranger to non-entity."
+                  ]
+            },
+            {
+                  "begin": "843.312",
+                  "end": "848.784",
+                  "id": "f000111",
+                  "language": "en",
+                  "lines": [
+                        "By those who look into the principles of things, the design of each is seen."
+                  ]
+            },
+            {
+                  "begin": "848.784",
+                  "end": "858.144",
+                  "id": "f000112",
+                  "language": "en",
+                  "lines": [
+                        "Learn that he by whom all things were formed is incorruptible, and that no one is able to effect the destruction of this thing which is imperishable."
+                  ]
+            },
+            {
+                  "begin": "858.144",
+                  "end": "871.44",
+                  "id": "f000113",
+                  "language": "en",
+                  "lines": [
+                        "These bodies, which envelop the souls which inhabit them, which are eternal, incorruptible, and surpassing all conception, are declared to be perishable; wherefore, Arjuna, resolve to fight."
+                  ]
+            },
+            {
+                  "begin": "871.44",
+                  "end": "882.72",
+                  "id": "f000114",
+                  "language": "en",
+                  "lines": [
+                        "The man who believeth that it is the soul which killeth, and he who thinketh that the soul may be destroyed, are both alike deceived; for it neither killeth, nor is it killed."
+                  ]
+            },
+            {
+                  "begin": "882.72",
+                  "end": "895.752",
+                  "id": "f000115",
+                  "language": "en",
+                  "lines": [
+                        "It is not born, nor does it ever die, nor having existed before, does it exist no more; it is ancient, constant, and eternal, and is not to be destroyed in this its mortal frame."
+                  ]
+            },
+            {
+                  "begin": "895.752",
+                  "end": "906.36",
+                  "id": "f000116",
+                  "language": "en",
+                  "lines": [
+                        "How can the man, who believeth that this thing is incorruptible eternal, inexhaustible, and without birth, think that he can either kill or cause it to be killed?"
+                  ]
+            },
+            {
+                  "begin": "906.36",
+                  "end": "917.496",
+                  "id": "f000117",
+                  "language": "en",
+                  "lines": [
+                        "As a man throweth away old garments, and putteth on new, even so the soul, having quitted its old mortal frames, entereth into others which are new."
+                  ]
+            },
+            {
+                  "begin": "917.496",
+                  "end": "943.848",
+                  "id": "f000118",
+                  "language": "en",
+                  "lines": [
+                        "The weapon divideth it not, the fire burneth it not, the water corrupteth it not, the wind drieth it not; It is indivisible, inconsumable, incorruptible, and is not to be dried away: it is everlasting, all-pervading, stable, immovable, and eternal: it is invisible, inconceivable, and unalterable; therefore, believing it to be thus, thou shouldst not grieve."
+                  ]
+            },
+            {
+                  "begin": "943.848",
+                  "end": "952.896",
+                  "id": "f000119",
+                  "language": "en",
+                  "lines": [
+                        "But whether thou believest it of eternal birth and duration, or that it dieth with the body, still thou hast no cause to lament it."
+                  ]
+            },
+            {
+                  "begin": "952.896",
+                  "end": "958.704",
+                  "id": "f000120",
+                  "language": "en",
+                  "lines": [
+                        "Death is certain to one that is born, and to one that dieth birth is certain."
+                  ]
+            },
+            {
+                  "begin": "958.704",
+                  "end": "964.008",
+                  "id": "f000121",
+                  "language": "en",
+                  "lines": [
+                        "Wherefore it doth not behove thee to grieve about that which is inevitable."
+                  ]
+            },
+            {
+                  "begin": "964.008",
+                  "end": "971.832",
+                  "id": "f000122",
+                  "language": "en",
+                  "lines": [
+                        "The former state of beings is unknown; the middle state is evident, and their future state is not to be discovered."
+                  ]
+            },
+            {
+                  "begin": "971.832",
+                  "end": "976.248",
+                  "id": "f000123",
+                  "language": "en",
+                  "lines": [
+                        "Why then shouldst thou trouble thyself about such things as these?"
+                  ]
+            },
+            {
+                  "begin": "976.248",
+                  "end": "986.52",
+                  "id": "f000124",
+                  "language": "en",
+                  "lines": [
+                        "Some regard the soul as a wonder, whilst some speak and others hear of it with astonishment; but no one knoweth it, although he may have heard it described."
+                  ]
+            },
+            {
+                  "begin": "986.52",
+                  "end": "996.096",
+                  "id": "f000125",
+                  "language": "en",
+                  "lines": [
+                        "This spirit being never to be destroyed in the mortal frame which it inhabiteth, it is unworthy for thee to be troubled for all these mortals."
+                  ]
+            },
+            {
+                  "begin": "996.096",
+                  "end": "1005.072",
+                  "id": "f000126",
+                  "language": "en",
+                  "lines": [
+                        "Regarding, too, thy proper duty, thou oughtest not to falter, for there is nothing better for a Kshatriya than a lawful battle."
+                  ]
+            },
+            {
+                  "begin": "1005.072",
+                  "end": "1012.008",
+                  "id": "f000127",
+                  "language": "en",
+                  "lines": [
+                        "Happy are the Kshatriyas who find such a battle freely offered to them as an open door to heaven."
+                  ]
+            },
+            {
+                  "begin": "1012.008",
+                  "end": "1022.592",
+                  "id": "f000128",
+                  "language": "en",
+                  "lines": [
+                        "But, if thou wilt not perform the duty of thy calling, and fight out the field, thou wilt abandon thy duty and thy honor, and be guilty of sin."
+                  ]
+            },
+            {
+                  "begin": "1022.592",
+                  "end": "1029.864",
+                  "id": "f000129",
+                  "language": "en",
+                  "lines": [
+                        "Then men will proclaim thy eternal disgrace, and to a well-born man disgrace is worse than death."
+                  ]
+            },
+            {
+                  "begin": "1029.864",
+                  "end": "1041.912",
+                  "id": "f000130",
+                  "language": "en",
+                  "lines": [
+                        "The generals of the armies will think that thy retirement from the field arose from fear, and thou wilt become despicable, even amongst those by whom thou wert wont to be respected."
+                  ]
+            },
+            {
+                  "begin": "1041.912",
+                  "end": "1052.472",
+                  "id": "f000131",
+                  "language": "en",
+                  "lines": [
+                        "Thy enemies will speak of thee in words which are unworthy to be spoken, and depreciate thy courage and abilities: what can be more dreadful than this!"
+                  ]
+            },
+            {
+                  "begin": "1052.472",
+                  "end": "1064.616",
+                  "id": "f000132",
+                  "language": "en",
+                  "lines": [
+                        "If thou art slain thou wilt obtain heaven; if thou art victorious thou wilt enjoy a world for thy reward; wherefore, son of Kunt\u00ed, arise and be determined for the battle."
+                  ]
+            },
+            {
+                  "begin": "1064.616",
+                  "end": "1074.312",
+                  "id": "f000133",
+                  "language": "en",
+                  "lines": [
+                        "Make pleasure and pain, gain and loss, victory and defeat, the same, and then prepare for battle; thus thou shalt not incur sin."
+                  ]
+            },
+            {
+                  "begin": "1074.312",
+                  "end": "1081.464",
+                  "id": "f000134",
+                  "language": "en",
+                  "lines": [
+                        "The doctrine here declared to you is according to the S\u00e1nkhya (system); hear now the Yoga (teaching)."
+                  ]
+            },
+            {
+                  "begin": "1081.464",
+                  "end": "1086.456",
+                  "id": "f000135",
+                  "language": "en",
+                  "lines": [
+                        "Possessed of this knowledge, thou wilt cast off the bonds of action."
+                  ]
+            },
+            {
+                  "begin": "1086.456",
+                  "end": "1091.256",
+                  "id": "f000136",
+                  "language": "en",
+                  "lines": [
+                        "In this there is no waste of effort, nor any disappointment."
+                  ]
+            },
+            {
+                  "begin": "1091.256",
+                  "end": "1094.928",
+                  "id": "f000137",
+                  "language": "en",
+                  "lines": [
+                        "Even a little of it delivereth one from great fear."
+                  ]
+            },
+            {
+                  "begin": "1094.928",
+                  "end": "1105.104",
+                  "id": "f000138",
+                  "language": "en",
+                  "lines": [
+                        "For those who enter on this path, son of Kuru, there is but one state of mind; but many-branched and endless are the doctrines of the inconstant."
+                  ]
+            },
+            {
+                  "begin": "1105.104",
+                  "end": "1115.376",
+                  "id": "f000139",
+                  "language": "en",
+                  "lines": [
+                        "Flowery speech is uttered by the unwise, who delight in the words of the Vedas, O son of Prith\u00e1! saying, \u201cThere is nothing but this.\u201d"
+                  ]
+            },
+            {
+                  "begin": "1115.376",
+                  "end": "1127.208",
+                  "id": "f000140",
+                  "language": "en",
+                  "lines": [
+                        "Whose souls are full of desires, whose goal is heaven, offering birth as the fruit of works, and prescribing many varied ceremonies for the attainment of pleasure and power."
+                  ]
+            },
+            {
+                  "begin": "1127.208",
+                  "end": "1135.176",
+                  "id": "f000141",
+                  "language": "en",
+                  "lines": [
+                        "The state of mind consisting in steady contemplation does not belong to those who are devoted to pleasures and power."
+                  ]
+            },
+            {
+                  "begin": "1135.176",
+                  "end": "1148.376",
+                  "id": "f000142",
+                  "language": "en",
+                  "lines": [
+                        "The Vedas deal with the three gunas; be thou free from the three gunas, O Arjuna: be free from the pairs of opposites, ever fixed on truth: without anxious care, and self-possessed."
+                  ]
+            },
+            {
+                  "begin": "1148.376",
+                  "end": "1156.704",
+                  "id": "f000143",
+                  "language": "en",
+                  "lines": [
+                        "The knowing Brahman findeth as many uses in the whole Vedas collectively, as in a reservoir full flowing with water."
+                  ]
+            },
+            {
+                  "begin": "1156.704",
+                  "end": "1160.592",
+                  "id": "f000144",
+                  "language": "en",
+                  "lines": [
+                        "Let the motive be in the deed and not in the fruit."
+                  ]
+            },
+            {
+                  "begin": "1160.592",
+                  "end": "1165.2",
+                  "id": "f000145",
+                  "language": "en",
+                  "lines": [
+                        "Be not one whose motive for action is the hope of reward."
+                  ]
+            },
+            {
+                  "begin": "1165.2",
+                  "end": "1168.32",
+                  "id": "f000146",
+                  "language": "en",
+                  "lines": [
+                        "Let not thy life be spent in inaction."
+                  ]
+            },
+            {
+                  "begin": "1168.32",
+                  "end": "1185.696",
+                  "id": "f000147",
+                  "language": "en",
+                  "lines": [
+                        "Steadfast in devotion, perform thy duty, abandon all thought of the consequence, and make the event equal, whether it terminate in good or evil; for such an equality is called yoga. For work is far inferior to the devotion of the mind."
+                  ]
+            },
+            {
+                  "begin": "1185.696",
+                  "end": "1193.472",
+                  "id": "f000148",
+                  "language": "en",
+                  "lines": [
+                        "Seek an asylum, then, in the mind; for the miserable and unhappy are so on account of the fruit of things."
+                  ]
+            },
+            {
+                  "begin": "1193.472",
+                  "end": "1199.4",
+                  "id": "f000149",
+                  "language": "en",
+                  "lines": [
+                        "Men who are endued with true wisdom cast off both good or evil deeds."
+                  ]
+            },
+            {
+                  "begin": "1199.4",
+                  "end": "1204.536",
+                  "id": "f000150",
+                  "language": "en",
+                  "lines": [
+                        "Therefore apply thyself to yoga; yoga is wisdom in action."
+                  ]
+            },
+            {
+                  "begin": "1204.536",
+                  "end": "1215.72",
+                  "id": "f000151",
+                  "language": "en",
+                  "lines": [
+                        "Wise men, who have abandoned all thought of the fruit which is produced from their actions, are freed from the chains of birth, and go to the regions of eternal happiness."
+                  ]
+            },
+            {
+                  "begin": "1215.72",
+                  "end": "1225.176",
+                  "id": "f000152",
+                  "language": "en",
+                  "lines": [
+                        "When thy mind shall have passed through the snares of delusion, thou wilt attain to a disdain of what has been revealed or will be revealed hereafter."
+                  ]
+            },
+            {
+                  "begin": "1225.176",
+                  "end": "1234.824",
+                  "id": "f000153",
+                  "language": "en",
+                  "lines": [
+                        "When thy mind, bewildered by Sruti, shall stand unshaken fixed in contemplation (Sam\u00e1dh\u00ed), thou shalt then attain to yoga."
+                  ]
+            },
+            {
+                  "begin": "1234.824",
+                  "end": "1236.216",
+                  "id": "f000154",
+                  "language": "en",
+                  "lines": [
+                        "ARJUNA said."
+                  ]
+            },
+            {
+                  "begin": "1236.216",
+                  "end": "1243.152",
+                  "id": "f000155",
+                  "language": "en",
+                  "lines": [
+                        "What, O Krishna, is the mark of that wise and steady man who is fixed in contemplation?"
+                  ]
+            },
+            {
+                  "begin": "1243.152",
+                  "end": "1245.408",
+                  "id": "f000156",
+                  "language": "en",
+                  "lines": [
+                        "How may such a sage speak?"
+                  ]
+            },
+            {
+                  "begin": "1245.408",
+                  "end": "1246.824",
+                  "id": "f000157",
+                  "language": "en",
+                  "lines": [
+                        "Where may he dwell?"
+                  ]
+            },
+            {
+                  "begin": "1246.824",
+                  "end": "1248.24",
+                  "id": "f000158",
+                  "language": "en",
+                  "lines": [
+                        "How may he act?"
+                  ]
+            },
+            {
+                  "begin": "1248.24",
+                  "end": "1249.584",
+                  "id": "f000159",
+                  "language": "en",
+                  "lines": [
+                        "KRISHNA said."
+                  ]
+            },
+            {
+                  "begin": "1249.584",
+                  "end": "1260.384",
+                  "id": "f000160",
+                  "language": "en",
+                  "lines": [
+                        "A man is said to be confirmed in wisdom, when he forsaketh every desire which entereth into his heart, and of himself is happy, and contented in himself."
+                  ]
+            },
+            {
+                  "begin": "1260.384",
+                  "end": "1270.224",
+                  "id": "f000161",
+                  "language": "en",
+                  "lines": [
+                        "His mind is undisturbed in adversity, he is happy and contented in prosperity, and he is a stranger to anxiety, fear, and anger."
+                  ]
+            },
+            {
+                  "begin": "1270.224",
+                  "end": "1272.96",
+                  "id": "f000162",
+                  "language": "en",
+                  "lines": [
+                        "Such a wise man is called a muni."
+                  ]
+            },
+            {
+                  "begin": "1272.96",
+                  "end": "1284.864",
+                  "id": "f000163",
+                  "language": "en",
+                  "lines": [
+                        "The knowledge of that man is established, who in all things is without affection, and having received good or evil, neither rejoiceth at the one, nor is cast down by the other."
+                  ]
+            },
+            {
+                  "begin": "1284.864",
+                  "end": "1293.624",
+                  "id": "f000164",
+                  "language": "en",
+                  "lines": [
+                        "His knowledge is confirmed, when, like the tortoise, he can draw in all his senses and restrain them from their wonted purposes."
+                  ]
+            },
+            {
+                  "begin": "1293.624",
+                  "end": "1299.504",
+                  "id": "f000165",
+                  "language": "en",
+                  "lines": [
+                        "Objects of sense withdraw from an abstinent man; not so the taste (for them)."
+                  ]
+            },
+            {
+                  "begin": "1299.504",
+                  "end": "1304.112",
+                  "id": "f000166",
+                  "language": "en",
+                  "lines": [
+                        "But when he hath seen the Supreme, he loseth even that."
+                  ]
+            },
+            {
+                  "begin": "1304.112",
+                  "end": "1311.576",
+                  "id": "f000167",
+                  "language": "en",
+                  "lines": [
+                        "The tumultuous senses hurry away by force the heart even of the wise man who striveth to restrain them."
+                  ]
+            },
+            {
+                  "begin": "1311.576",
+                  "end": "1317.12",
+                  "id": "f000168",
+                  "language": "en",
+                  "lines": [
+                        "When he hath subdued them all, he may rest in devotion, intent on me."
+                  ]
+            },
+            {
+                  "begin": "1317.12",
+                  "end": "1322.688",
+                  "id": "f000169",
+                  "language": "en",
+                  "lines": [
+                        "The man who hath his passions in subjection, is possessed of true wisdom."
+                  ]
+            },
+            {
+                  "begin": "1322.688",
+                  "end": "1332.6",
+                  "id": "f000170",
+                  "language": "en",
+                  "lines": [
+                        "When a man meditateth on the objects of sense, attachment to them ariseth; desire springeth from attachment; desire from anger."
+                  ]
+            },
+            {
+                  "begin": "1332.6",
+                  "end": "1343.832",
+                  "id": "f000171",
+                  "language": "en",
+                  "lines": [
+                        "From anger is produced folly; from folly a depravation of the memory; from the loss of memory the loss of reason; and from the loss of reason the loss of all!"
+                  ]
+            },
+            {
+                  "begin": "1343.832",
+                  "end": "1356.12",
+                  "id": "f000172",
+                  "language": "en",
+                  "lines": [
+                        "A man of a governable mind, enjoying the objects of his senses, with all his faculties rendered obedient to his will and freed from pride and malice, obtaineth happiness supreme."
+                  ]
+            },
+            {
+                  "begin": "1356.12",
+                  "end": "1366.896",
+                  "id": "f000173",
+                  "language": "en",
+                  "lines": [
+                        "In this happiness is born to him an exemption from all his troubles, and his mind being thus at ease, wisdom presently floweth to him from all sides."
+                  ]
+            },
+            {
+                  "begin": "1366.896",
+                  "end": "1373.184",
+                  "id": "f000174",
+                  "language": "en",
+                  "lines": [
+                        "The man who attendeth not to this, is without wisdom or the power of contemplation."
+                  ]
+            },
+            {
+                  "begin": "1373.184",
+                  "end": "1377.216",
+                  "id": "f000175",
+                  "language": "en",
+                  "lines": [
+                        "The man who is incapable of thinking, hath no rest."
+                  ]
+            },
+            {
+                  "begin": "1377.216",
+                  "end": "1380.768",
+                  "id": "f000176",
+                  "language": "en",
+                  "lines": [
+                        "What happiness can he enjoy who hath no rest?"
+                  ]
+            },
+            {
+                  "begin": "1380.768",
+                  "end": "1389.816",
+                  "id": "f000177",
+                  "language": "en",
+                  "lines": [
+                        "The heart, which followeth the dictates of the moving passions, carrieth away his reason, as the storm the ship in the raging ocean."
+                  ]
+            },
+            {
+                  "begin": "1389.816",
+                  "end": "1397.208",
+                  "id": "f000178",
+                  "language": "en",
+                  "lines": [
+                        "The man therefore who can restrain all his passions from their inordinate desires, is endued with true wisdom."
+                  ]
+            },
+            {
+                  "begin": "1397.208",
+                  "end": "1401.216",
+                  "id": "f000179",
+                  "language": "en",
+                  "lines": [
+                        "Such a one waketh when all other beings go to rest."
+                  ]
+            },
+            {
+                  "begin": "1401.216",
+                  "end": "1405.752",
+                  "id": "f000180",
+                  "language": "en",
+                  "lines": [
+                        "The contemplative muni sleepeth when all other beings are awake."
+                  ]
+            },
+            {
+                  "begin": "1405.752",
+                  "end": "1416.024",
+                  "id": "f000181",
+                  "language": "en",
+                  "lines": [
+                        "The man whose passions enter his heart as waters run into the unswelling passive ocean, obtaineth happiness; not he who cherisheth desires."
+                  ]
+            },
+            {
+                  "begin": "1416.024",
+                  "end": "1426.68",
+                  "id": "f000182",
+                  "language": "en",
+                  "lines": [
+                        "The man who, having abandoned all lusts of the flesh, walketh without inordinate desires, unassuming, and free from pride, obtaineth happiness."
+                  ]
+            },
+            {
+                  "begin": "1426.68",
+                  "end": "1438.08",
+                  "id": "f000183",
+                  "language": "en",
+                  "lines": [
+                        "This is the Brahmic state; attaining to this, one is never deluded; and remaining in it till the hour of death, one passes on to absorption (nirv\u00e1na) in Brahma."
+                  ]
+            },
+            {
+                  "begin": "1438.08",
+                  "end": "1439.28",
+                  "id": "f000184",
+                  "language": "en",
+                  "lines": [
+                        "LECTURE 3"
+                  ]
+            },
+            {
+                  "begin": "1439.28",
+                  "end": "1441.152",
+                  "id": "f000185",
+                  "language": "en",
+                  "lines": [
+                        "\u201cTHE YOGA OF ACTION.\u201d"
+                  ]
+            },
+            {
+                  "begin": "1441.152",
+                  "end": "1442.544",
+                  "id": "f000186",
+                  "language": "en",
+                  "lines": [
+                        "ARJUNA said."
+                  ]
+            },
+            {
+                  "begin": "1442.544",
+                  "end": "1453.104",
+                  "id": "f000187",
+                  "language": "en",
+                  "lines": [
+                        "If, according to thy opinion, knowledge be superior to action, why, then, dost thou urge me to engage in an undertaking so dreadful as this?"
+                  ]
+            },
+            {
+                  "begin": "1453.104",
+                  "end": "1464.528",
+                  "id": "f000188",
+                  "language": "en",
+                  "lines": [
+                        "Thou, as it were, confoundest my reason with a mixture of sentiments: wherefore choose one amongst them, by which I may obtain happiness, and explain it unto me."
+                  ]
+            },
+            {
+                  "begin": "1464.528",
+                  "end": "1465.872",
+                  "id": "f000189",
+                  "language": "en",
+                  "lines": [
+                        "KRISHNA said."
+                  ]
+            },
+            {
+                  "begin": "1465.872",
+                  "end": "1477.704",
+                  "id": "f000190",
+                  "language": "en",
+                  "lines": [
+                        "It hath before been observed by me, that in this world there is a twofold rule of life, that of the S\u00e1nkhyas by devotion of knowledge, and that of the Yog\u00eds by devotion of action."
+                  ]
+            },
+            {
+                  "begin": "1477.704",
+                  "end": "1486.8",
+                  "id": "f000191",
+                  "language": "en",
+                  "lines": [
+                        "The man enjoyeth not freedom from action, by abstaining from action, nor doth he obtain perfection from a total inactivity."
+                  ]
+            },
+            {
+                  "begin": "1486.8",
+                  "end": "1490.112",
+                  "id": "f000192",
+                  "language": "en",
+                  "lines": [
+                        "No one ever resteth a moment inactive."
+                  ]
+            },
+            {
+                  "begin": "1490.112",
+                  "end": "1496.544",
+                  "id": "f000193",
+                  "language": "en",
+                  "lines": [
+                        "Every man is involuntarily urged to act by those gunas which are inherent in his nature."
+                  ]
+            },
+            {
+                  "begin": "1496.544",
+                  "end": "1507.656",
+                  "id": "f000194",
+                  "language": "en",
+                  "lines": [
+                        "The man who restraineth his organs of action and sitteth down with his mind attentive to the objects of his senses, is called a bewildered soul, and a hypocrite."
+                  ]
+            },
+            {
+                  "begin": "1507.656",
+                  "end": "1518.336",
+                  "id": "f000195",
+                  "language": "en",
+                  "lines": [
+                        "But the man is praised, who, having subdued all his passions, performeth with his active faculties all the functions of life, unconcerned about the event."
+                  ]
+            },
+            {
+                  "begin": "1518.336",
+                  "end": "1523.352",
+                  "id": "f000196",
+                  "language": "en",
+                  "lines": [
+                        "Perform every appointed work, for action is preferable to inaction."
+                  ]
+            },
+            {
+                  "begin": "1523.352",
+                  "end": "1527.6",
+                  "id": "f000197",
+                  "language": "en",
+                  "lines": [
+                        "Without action the support of thy body would not be possible."
+                  ]
+            },
+            {
+                  "begin": "1527.6",
+                  "end": "1534.08",
+                  "id": "f000198",
+                  "language": "en",
+                  "lines": [
+                        "This world is fettered by all action except in work done on account of sacrifice."
+                  ]
+            },
+            {
+                  "begin": "1534.08",
+                  "end": "1538.544",
+                  "id": "f000199",
+                  "language": "en",
+                  "lines": [
+                        "Do thou therefore work for this purpose, but without attachment."
+                  ]
+            },
+            {
+                  "begin": "1538.544",
+                  "end": "1548.144",
+                  "id": "f000200",
+                  "language": "en",
+                  "lines": [
+                        "When Praj\u00e1pati in ancient times created men together with sacrifice, he said: \u201cBy this propagate; be this your cow of plenty."
+                  ]
+            },
+            {
+                  "begin": "1548.144",
+                  "end": "1552.464",
+                  "id": "f000201",
+                  "language": "en",
+                  "lines": [
+                        "Nourish the gods by this, and let the gods nourish you."
+                  ]
+            },
+            {
+                  "begin": "1552.464",
+                  "end": "1557.24",
+                  "id": "f000202",
+                  "language": "en",
+                  "lines": [
+                        "Thus nourishing each other, ye shall obtain supreme happiness."
+                  ]
+            },
+            {
+                  "begin": "1557.24",
+                  "end": "1563.24",
+                  "id": "f000203",
+                  "language": "en",
+                  "lines": [
+                        "The gods nourished by sacrifice will grant you the enjoyment of your wishes."
+                  ]
+            },
+            {
+                  "begin": "1563.24",
+                  "end": "1571.496",
+                  "id": "f000204",
+                  "language": "en",
+                  "lines": [
+                        "He who enjoyeth what hath been given unto him by them, and offereth not a portion unto them, is even as a thief.\u201d"
+                  ]
+            },
+            {
+                  "begin": "1571.496",
+                  "end": "1576.68",
+                  "id": "f000205",
+                  "language": "en",
+                  "lines": [
+                        "The good who eat the remains of sacrifice are freed from all sins."
+                  ]
+            },
+            {
+                  "begin": "1576.68",
+                  "end": "1581.432",
+                  "id": "f000206",
+                  "language": "en",
+                  "lines": [
+                        "Those who dress food but for themselves, eat the food of sin."
+                  ]
+            },
+            {
+                  "begin": "1581.432",
+                  "end": "1586.328",
+                  "id": "f000207",
+                  "language": "en",
+                  "lines": [
+                        "All things which have life are generated from the food which they eat."
+                  ]
+            },
+            {
+                  "begin": "1586.328",
+                  "end": "1593.024",
+                  "id": "f000208",
+                  "language": "en",
+                  "lines": [
+                        "Food is generated from rain; rain from sacrifice; and sacrifice from action."
+                  ]
+            },
+            {
+                  "begin": "1593.024",
+                  "end": "1599.288",
+                  "id": "f000209",
+                  "language": "en",
+                  "lines": [
+                        "Know that action springeth from Brahm\u00e1; Brahm\u00e1 proceedeth from the Indivisible One."
+                  ]
+            },
+            {
+                  "begin": "1599.288",
+                  "end": "1605.024",
+                  "id": "f000210",
+                  "language": "en",
+                  "lines": [
+                        "Therefore Brahma, the all-pervading, is ever present in sacrifice."
+                  ]
+            },
+            {
+                  "begin": "1605.024",
+                  "end": "1615.32",
+                  "id": "f000211",
+                  "language": "en",
+                  "lines": [
+                        "The sinful mortal, who delighteth in the gratification of his passions, and followeth not the wheel thus revolving in the world, liveth but in vain."
+                  ]
+            },
+            {
+                  "begin": "1615.32",
+                  "end": "1623.456",
+                  "id": "f000212",
+                  "language": "en",
+                  "lines": [
+                        "But the man who rejoiceth in his self, pleased with his self, and contented with his self alone hath nothing to do."
+                  ]
+            },
+            {
+                  "begin": "1623.456",
+                  "end": "1635.048",
+                  "id": "f000213",
+                  "language": "en",
+                  "lines": [
+                        "He hath no interest either in that which is done, or that which is not done: and there is not, in all things which have been created, any object on which he may place dependence."
+                  ]
+            },
+            {
+                  "begin": "1635.048",
+                  "end": "1647.216",
+                  "id": "f000214",
+                  "language": "en",
+                  "lines": [
+                        "Wherefore, perform thou that which thou hast to do, at all times without attachment; for the man who doeth that which he hath to do, without attachment, attaineth to the Supreme."
+                  ]
+            },
+            {
+                  "begin": "1647.216",
+                  "end": "1651.68",
+                  "id": "f000215",
+                  "language": "en",
+                  "lines": [
+                        "Janaka and others have attained perfection even by works."
+                  ]
+            },
+            {
+                  "begin": "1651.68",
+                  "end": "1656.552",
+                  "id": "f000216",
+                  "language": "en",
+                  "lines": [
+                        "Thou oughtest also to work from regard to the good of mankind."
+                  ]
+            },
+            {
+                  "begin": "1656.552",
+                  "end": "1663.704",
+                  "id": "f000217",
+                  "language": "en",
+                  "lines": [
+                        "The man of low degree followeth the example of him who is above him, and doeth that which he doeth."
+                  ]
+            },
+            {
+                  "begin": "1663.704",
+                  "end": "1677.048",
+                  "id": "f000218",
+                  "language": "en",
+                  "lines": [
+                        "I myself, Arjuna, have not, in the three regions of the universe, anything which is necessary for me to perform, nor any thing to obtain which is not obtained; and yet I am occupied in work."
+                  ]
+            },
+            {
+                  "begin": "1677.048",
+                  "end": "1684.056",
+                  "id": "f000219",
+                  "language": "en",
+                  "lines": [
+                        "If I were not vigilantly to attend to these duties, all men would presently follow my example."
+                  ]
+            },
+            {
+                  "begin": "1684.056",
+                  "end": "1688.376",
+                  "id": "f000220",
+                  "language": "en",
+                  "lines": [
+                        "If I should not work, these worlds would sink in ruin."
+                  ]
+            },
+            {
+                  "begin": "1688.376",
+                  "end": "1693.704",
+                  "id": "f000221",
+                  "language": "en",
+                  "lines": [
+                        "I should be the cause of caste confusion, and should destroy these people."
+                  ]
+            },
+            {
+                  "begin": "1693.704",
+                  "end": "1704.888",
+                  "id": "f000222",
+                  "language": "en",
+                  "lines": [
+                        "As the ignorant perform the duties of life from the hope of reward, so the wise man, to promote the general good, should perform the same without motives of interest."
+                  ]
+            },
+            {
+                  "begin": "1704.888",
+                  "end": "1712.112",
+                  "id": "f000223",
+                  "language": "en",
+                  "lines": [
+                        "He should not cause destruction in the understandings of the ignorant, who are inclined to outward works."
+                  ]
+            },
+            {
+                  "begin": "1712.112",
+                  "end": "1719.792",
+                  "id": "f000224",
+                  "language": "en",
+                  "lines": [
+                        "The learned man, by industriously performing all the duties of life, should induce the vulgar to attend to them."
+                  ]
+            },
+            {
+                  "begin": "1719.792",
+                  "end": "1730.76",
+                  "id": "f000225",
+                  "language": "en",
+                  "lines": [
+                        "He whose mind is deluded by ahank\u00e1ra (self-consciousness) thinketh himself the doer of actions which in every way are done by the qualities of Prakriti."
+                  ]
+            },
+            {
+                  "begin": "1730.76",
+                  "end": "1741.56",
+                  "id": "f000226",
+                  "language": "en",
+                  "lines": [
+                        "But he who knoweth the truth about the difference from qualities and the difference from actions, formeth no attachments, believing that qualities deal with qualities."
+                  ]
+            },
+            {
+                  "begin": "1741.56",
+                  "end": "1755.024",
+                  "id": "f000227",
+                  "language": "en",
+                  "lines": [
+                        "Men who are confused by the gunas of Prakriti are bound by the works of the gunas. The man who knoweth the whole truth should not cause dull men, who know not the whole, to falter (in action)."
+                  ]
+            },
+            {
+                  "begin": "1755.024",
+                  "end": "1764.408",
+                  "id": "f000228",
+                  "language": "en",
+                  "lines": [
+                        "Dedicating all actions to me, fixed in thought on the Supreme Spirit, free from hope and egoism, put away thy sorrow and fight."
+                  ]
+            },
+            {
+                  "begin": "1764.408",
+                  "end": "1773.504",
+                  "id": "f000229",
+                  "language": "en",
+                  "lines": [
+                        "Those who with a firm belief, and without reproach, shall constantly follow this my doctrine, shall be saved even by works."
+                  ]
+            },
+            {
+                  "begin": "1773.504",
+                  "end": "1783.248",
+                  "id": "f000230",
+                  "language": "en",
+                  "lines": [
+                        "Know that those who, holding it in contempt, follow not this my counsel, are astrayed from all wisdom, deprived of reason, and are lost."
+                  ]
+            },
+            {
+                  "begin": "1783.248",
+                  "end": "1788.696",
+                  "id": "f000231",
+                  "language": "en",
+                  "lines": [
+                        "But the wise man also seeketh for that which is conformed to his own nature."
+                  ]
+            },
+            {
+                  "begin": "1788.696",
+                  "end": "1794.096",
+                  "id": "f000232",
+                  "language": "en",
+                  "lines": [
+                        "All things act according to their natures; what then will opposition effect?"
+                  ]
+            },
+            {
+                  "begin": "1794.096",
+                  "end": "1798.488",
+                  "id": "f000233",
+                  "language": "en",
+                  "lines": [
+                        "In the objects of the senses are fixed affection and dislike."
+                  ]
+            },
+            {
+                  "begin": "1798.488",
+                  "end": "1804.776",
+                  "id": "f000234",
+                  "language": "en",
+                  "lines": [
+                        "A wise man should not put himself in their power, for both of them are his opponents."
+                  ]
+            },
+            {
+                  "begin": "1804.776",
+                  "end": "1811.184",
+                  "id": "f000235",
+                  "language": "en",
+                  "lines": [
+                        "One's own duty (dharma) though defective, is better than another's duty well-performed."
+                  ]
+            },
+            {
+                  "begin": "1811.184",
+                  "end": "1816.896",
+                  "id": "f000236",
+                  "language": "en",
+                  "lines": [
+                        "Better is death in one\u2019s own duty; another's duty is full of danger."
+                  ]
+            },
+            {
+                  "begin": "1816.896",
+                  "end": "1818.288",
+                  "id": "f000237",
+                  "language": "en",
+                  "lines": [
+                        "ARJUNA said."
+                  ]
+            },
+            {
+                  "begin": "1818.288",
+                  "end": "1823.352",
+                  "id": "f000238",
+                  "language": "en",
+                  "lines": [
+                        "By what, O Krishna, is man constrained to commit offences?"
+                  ]
+            },
+            {
+                  "begin": "1823.352",
+                  "end": "1829.568",
+                  "id": "f000239",
+                  "language": "en",
+                  "lines": [
+                        "He seems as if, contrary to his wishes, he was impelled by some secret force."
+                  ]
+            },
+            {
+                  "begin": "1829.568",
+                  "end": "1830.912",
+                  "id": "f000240",
+                  "language": "en",
+                  "lines": [
+                        "KRISHNA said."
+                  ]
+            },
+            {
+                  "begin": "1830.912",
+                  "end": "1838.64",
+                  "id": "f000241",
+                  "language": "en",
+                  "lines": [
+                        "It is desire, it is wrath; born from the quality of passion (rajas); it is insatiable, full of sin."
+                  ]
+            },
+            {
+                  "begin": "1838.64",
+                  "end": "1840.992",
+                  "id": "f000242",
+                  "language": "en",
+                  "lines": [
+                        "That is our foe in this world."
+                  ]
+            },
+            {
+                  "begin": "1840.992",
+                  "end": "1849.896",
+                  "id": "f000243",
+                  "language": "en",
+                  "lines": [
+                        "As fire is covered by smoke, a mirror by dirt, as a foetus is enveloped in the womb, so the world is enveloped by this."
+                  ]
+            },
+            {
+                  "begin": "1849.896",
+                  "end": "1860.24",
+                  "id": "f000244",
+                  "language": "en",
+                  "lines": [
+                        "The understanding of the wise man is obscured by this inveterate foe, in the shape of desire, which rageth like fire, and is hard to be appeased."
+                  ]
+            },
+            {
+                  "begin": "1860.24",
+                  "end": "1866.648",
+                  "id": "f000245",
+                  "language": "en",
+                  "lines": [
+                        "It is said that the senses, the heart, and the understanding, are the places which are its seat."
+                  ]
+            },
+            {
+                  "begin": "1866.648",
+                  "end": "1872.456",
+                  "id": "f000246",
+                  "language": "en",
+                  "lines": [
+                        "By the assistance of these it overwhelmeth reason, and stupifieth the soul."
+                  ]
+            },
+            {
+                  "begin": "1872.456",
+                  "end": "1882.896",
+                  "id": "f000247",
+                  "language": "en",
+                  "lines": [
+                        "Thou shouldst, therefore, first subdue thy passions, and get the better of this sinful destroyer of knowledge (jn\u00e1na), and experience (vijn\u00e1na)."
+                  ]
+            },
+            {
+                  "begin": "1882.896",
+                  "end": "1895.616",
+                  "id": "f000248",
+                  "language": "en",
+                  "lines": [
+                        "It is said that the senses are great; greater than the senses is the heart (manas); greater than the heart is the mind (buddhi); but what is greater than the mind is That (the Supreme Being)."
+                  ]
+            },
+            {
+                  "begin": "1895.616",
+                  "end": "1905.168",
+                  "id": "f000249",
+                  "language": "en",
+                  "lines": [
+                        "Thus knowing that which is higher than the mind, restraining thyself by thyself, slay this unmanageable enemy in the shape of desire."
+                  ]
+            },
+            {
+                  "begin": "1905.168",
+                  "end": "1906.32",
+                  "id": "f000250",
+                  "language": "en",
+                  "lines": [
+                        "LECTURE 4"
+                  ]
+            },
+            {
+                  "begin": "1906.32",
+                  "end": "1908.264",
+                  "id": "f000251",
+                  "language": "en",
+                  "lines": [
+                        "\u201cTHE YOGA OF KNOWLEDGE.\u201d"
+                  ]
+            },
+            {
+                  "begin": "1908.264",
+                  "end": "1909.728",
+                  "id": "f000252",
+                  "language": "en",
+                  "lines": [
+                        "THE DEITY SAID:"
+                  ]
+            },
+            {
+                  "begin": "1909.728",
+                  "end": "1920.024",
+                  "id": "f000253",
+                  "language": "en",
+                  "lines": [
+                        "This eternal (doctrine of) Yoga, I formerly taught unto Vivaswat, and Vivaswat taught it to Manu, and Manu made it known unto Ikshw\u00e1ku."
+                  ]
+            },
+            {
+                  "begin": "1920.024",
+                  "end": "1929.576",
+                  "id": "f000254",
+                  "language": "en",
+                  "lines": [
+                        "Being delivered down from one unto another, it was studied by the Rajarshis; until at length, in the course of time, this Yoga was lost."
+                  ]
+            },
+            {
+                  "begin": "1929.576",
+                  "end": "1937.76",
+                  "id": "f000255",
+                  "language": "en",
+                  "lines": [
+                        "It is even the same Yoga which I have this day communicated unto thee, because thou art my servant and my friend."
+                  ]
+            },
+            {
+                  "begin": "1937.76",
+                  "end": "1940.04",
+                  "id": "f000256",
+                  "language": "en",
+                  "lines": [
+                        "It is the supreme mystery."
+                  ]
+            },
+            {
+                  "begin": "1940.04",
+                  "end": "1941.432",
+                  "id": "f000257",
+                  "language": "en",
+                  "lines": [
+                        "ARJUNA said."
+                  ]
+            },
+            {
+                  "begin": "1941.432",
+                  "end": "1949.664",
+                  "id": "f000258",
+                  "language": "en",
+                  "lines": [
+                        "Seeing thy birth was later than that of Ikshw\u00e1ku, how am I to understand that thou didst first declare this doctrine?"
+                  ]
+            },
+            {
+                  "begin": "1949.664",
+                  "end": "1951.008",
+                  "id": "f000259",
+                  "language": "en",
+                  "lines": [
+                        "KRISHNA said."
+                  ]
+            },
+            {
+                  "begin": "1951.008",
+                  "end": "1954.56",
+                  "id": "f000260",
+                  "language": "en",
+                  "lines": [
+                        "Both I and thou have passed through many births."
+                  ]
+            },
+            {
+                  "begin": "1954.56",
+                  "end": "1958.304",
+                  "id": "f000261",
+                  "language": "en",
+                  "lines": [
+                        "Mine are known unto me; but thou knowest not thine."
+                  ]
+            },
+            {
+                  "begin": "1958.304",
+                  "end": "1971.504",
+                  "id": "f000262",
+                  "language": "en",
+                  "lines": [
+                        "Although I am not in my nature subject to birth or decay, and am the lord of all created beings; yet, taking command over my own nature, I am born by my delusive power (m\u00e1y\u00e1)."
+                  ]
+            },
+            {
+                  "begin": "1971.504",
+                  "end": "1988.184",
+                  "id": "f000263",
+                  "language": "en",
+                  "lines": [
+                        "As often as there is a decline of dharma and an exaltation of adharma, in the world, I produce myself; Thus I am born, from age to age, for the preservation of the good, the destruction of the wicked, and the re-establishment of dharma."
+                  ]
+            },
+            {
+                  "begin": "1988.184",
+                  "end": "1999.632",
+                  "id": "f000264",
+                  "language": "en",
+                  "lines": [
+                        "He, O Arjuna, who, truly knoweth my divine birth and work, doth not, upon his quitting his mortal frame, enter into another, for he entereth into me."
+                  ]
+            },
+            {
+                  "begin": "1999.632",
+                  "end": "2011.296",
+                  "id": "f000265",
+                  "language": "en",
+                  "lines": [
+                        "Many who were free from affection, fear, and anger, thinking on me, finding refuge in me, having been purified by the fire of knowledge, have entered into my being."
+                  ]
+            },
+            {
+                  "begin": "2011.296",
+                  "end": "2014.752",
+                  "id": "f000266",
+                  "language": "en",
+                  "lines": [
+                        "I serve men in the way in which they approach me."
+                  ]
+            },
+            {
+                  "begin": "2014.752",
+                  "end": "2017.704",
+                  "id": "f000267",
+                  "language": "en",
+                  "lines": [
+                        "Men follow my path from every side."
+                  ]
+            },
+            {
+                  "begin": "2017.704",
+                  "end": "2023.32",
+                  "id": "f000268",
+                  "language": "en",
+                  "lines": [
+                        "Those who wish for success to their works in this life, worship the gods."
+                  ]
+            },
+            {
+                  "begin": "2023.32",
+                  "end": "2028",
+                  "id": "f000269",
+                  "language": "en",
+                  "lines": [
+                        "For in this life success from works speedily cometh to pass."
+                  ]
+            },
+            {
+                  "begin": "2028",
+                  "end": "2034.432",
+                  "id": "f000270",
+                  "language": "en",
+                  "lines": [
+                        "The four castes were created by me according to the apportionment of qualities and works."
+                  ]
+            },
+            {
+                  "begin": "2034.432",
+                  "end": "2039.784",
+                  "id": "f000271",
+                  "language": "en",
+                  "lines": [
+                        "Know that I, though action-less and inexhaustible, am the author of them."
+                  ]
+            },
+            {
+                  "begin": "2039.784",
+                  "end": "2045.4",
+                  "id": "f000272",
+                  "language": "en",
+                  "lines": [
+                        "Actions defile me not; I have no desire for the fruit of actions."
+                  ]
+            },
+            {
+                  "begin": "2045.4",
+                  "end": "2049.24",
+                  "id": "f000273",
+                  "language": "en",
+                  "lines": [
+                        "He who knoweth me thus is not bound by actions."
+                  ]
+            },
+            {
+                  "begin": "2049.24",
+                  "end": "2055.456",
+                  "id": "f000274",
+                  "language": "en",
+                  "lines": [
+                        "The ancients who longed for liberation having discovered this, still performed works."
+                  ]
+            },
+            {
+                  "begin": "2055.456",
+                  "end": "2061.912",
+                  "id": "f000275",
+                  "language": "en",
+                  "lines": [
+                        "Wherefore perform thou works, even as they were performed by the ancients in former times."
+                  ]
+            },
+            {
+                  "begin": "2061.912",
+                  "end": "2067.096",
+                  "id": "f000276",
+                  "language": "en",
+                  "lines": [
+                        "The learned even are puzzled to determine what is work, and what is not."
+                  ]
+            },
+            {
+                  "begin": "2067.096",
+                  "end": "2073.288",
+                  "id": "f000277",
+                  "language": "en",
+                  "lines": [
+                        "I will tell thee what that work is, by knowing which thou wilt be delivered from misfortune."
+                  ]
+            },
+            {
+                  "begin": "2073.288",
+                  "end": "2079.528",
+                  "id": "f000278",
+                  "language": "en",
+                  "lines": [
+                        "The (natures) of action, forbidden action, and inaction must be well understood."
+                  ]
+            },
+            {
+                  "begin": "2079.528",
+                  "end": "2082.024",
+                  "id": "f000279",
+                  "language": "en",
+                  "lines": [
+                        "The path of action is obscure."
+                  ]
+            },
+            {
+                  "begin": "2082.024",
+                  "end": "2089.464",
+                  "id": "f000280",
+                  "language": "en",
+                  "lines": [
+                        "He who can see as it were, inaction in action, and action in inaction, is wise amongst mankind."
+                  ]
+            },
+            {
+                  "begin": "2089.464",
+                  "end": "2092.56",
+                  "id": "f000281",
+                  "language": "en",
+                  "lines": [
+                        "He is a perfect performer of all duty."
+                  ]
+            },
+            {
+                  "begin": "2092.56",
+                  "end": "2102.208",
+                  "id": "f000282",
+                  "language": "en",
+                  "lines": [
+                        "Wise men call him learned whose every undertaking is free from the idea of desire, and whose actions are consumed by the fire of knowledge."
+                  ]
+            },
+            {
+                  "begin": "2102.208",
+                  "end": "2113.44",
+                  "id": "f000283",
+                  "language": "en",
+                  "lines": [
+                        "Abandoning the desire of a reward of his actions; always contented and self-reliant, although he may be engaged in a work, he, as it were, doeth nothing."
+                  ]
+            },
+            {
+                  "begin": "2113.44",
+                  "end": "2123.136",
+                  "id": "f000284",
+                  "language": "en",
+                  "lines": [
+                        "Unsolicitous, of a subdued mind and spirit, rejecting all surroundings and performing merely bodily work, he committeth no offence."
+                  ]
+            },
+            {
+                  "begin": "2123.136",
+                  "end": "2137.176",
+                  "id": "f000285",
+                  "language": "en",
+                  "lines": [
+                        "Contented with whatever he may receive, unaffected by the pairs of opposites (pleasure and pain, etc.) free from envy, the same in good and evil fortune, he, though he worketh, is not bound."
+                  ]
+            },
+            {
+                  "begin": "2137.176",
+                  "end": "2149.872",
+                  "id": "f000286",
+                  "language": "en",
+                  "lines": [
+                        "The work of him in whom attachment is dead, who is freed, whose mind is fixed on knowledge, who performeth actions for (the purpose of) sacrifice, cometh altogether unto nothing."
+                  ]
+            },
+            {
+                  "begin": "2149.872",
+                  "end": "2158.824",
+                  "id": "f000287",
+                  "language": "en",
+                  "lines": [
+                        "Brahma is the oblation; Brahma is the sacrificial butter; Brahma is in the fire; by Brahma is the offering made."
+                  ]
+            },
+            {
+                  "begin": "2158.824",
+                  "end": "2163.84",
+                  "id": "f000288",
+                  "language": "en",
+                  "lines": [
+                        "Into Brahma will he enter who meditateth on Brahma in his work."
+                  ]
+            },
+            {
+                  "begin": "2163.84",
+                  "end": "2172.792",
+                  "id": "f000289",
+                  "language": "en",
+                  "lines": [
+                        "Some devotees offer up sacrifice to the gods; others offer sacrifice by sacrificing only in the fire of Brahma."
+                  ]
+            },
+            {
+                  "begin": "2172.792",
+                  "end": "2184.144",
+                  "id": "f000290",
+                  "language": "en",
+                  "lines": [
+                        "Others sacrifice hearing and the other senses in the fire of self-restraint; others sacrifice sound and the other objects of sense in the fire of the senses."
+                  ]
+            },
+            {
+                  "begin": "2184.144",
+                  "end": "2193.12",
+                  "id": "f000291",
+                  "language": "en",
+                  "lines": [
+                        "Others again sacrifice all the functions of the senses and life-breaths in the fire of self-restraint, kindled by knowledge."
+                  ]
+            },
+            {
+                  "begin": "2193.12",
+                  "end": "2201.616",
+                  "id": "f000292",
+                  "language": "en",
+                  "lines": [
+                        "Others, also, sacrifice by their wealth, or by austerities, by Yoga, by silent study, and knowledge."
+                  ]
+            },
+            {
+                  "begin": "2201.616",
+                  "end": "2213.664",
+                  "id": "f000293",
+                  "language": "en",
+                  "lines": [
+                        "Some sacrifice the upward breath in the downward, and the downward breath in the upward, stopping up the channels of the upward and downward breaths, intent on the restraint of breath."
+                  ]
+            },
+            {
+                  "begin": "2213.664",
+                  "end": "2219.856",
+                  "id": "f000294",
+                  "language": "en",
+                  "lines": [
+                        "Others, who practise abstinence, sacrifice their life-breaths in life-breaths."
+                  ]
+            },
+            {
+                  "begin": "2219.856",
+                  "end": "2225.616",
+                  "id": "f000295",
+                  "language": "en",
+                  "lines": [
+                        "All these are skilled in sacrifice and by sacrifice their sins are destroyed."
+                  ]
+            },
+            {
+                  "begin": "2225.616",
+                  "end": "2231.712",
+                  "id": "f000296",
+                  "language": "en",
+                  "lines": [
+                        "Those who eat the nectar-like leavings of sacrifices go to the eternal Brahma."
+                  ]
+            },
+            {
+                  "begin": "2231.712",
+                  "end": "2237.328",
+                  "id": "f000297",
+                  "language": "en",
+                  "lines": [
+                        "This world is not for him who offereth no sacrifice; much less the other."
+                  ]
+            },
+            {
+                  "begin": "2237.328",
+                  "end": "2241.72",
+                  "id": "f000298",
+                  "language": "en",
+                  "lines": [
+                        "Many kinds of sacrifice are offered in the presence of Brahma."
+                  ]
+            },
+            {
+                  "begin": "2241.72",
+                  "end": "2247.528",
+                  "id": "f000299",
+                  "language": "en",
+                  "lines": [
+                        "Know them all to be produced from action; knowing this, thou shalt be free."
+                  ]
+            },
+            {
+                  "begin": "2247.528",
+                  "end": "2252.016",
+                  "id": "f000300",
+                  "language": "en",
+                  "lines": [
+                        "The sacrifice of knowledge is better than the sacrifice of wealth."
+                  ]
+            },
+            {
+                  "begin": "2252.016",
+                  "end": "2256.384",
+                  "id": "f000301",
+                  "language": "en",
+                  "lines": [
+                        "Every action, in its completeness, is contained in knowledge."
+                  ]
+            },
+            {
+                  "begin": "2256.384",
+                  "end": "2266.368",
+                  "id": "f000302",
+                  "language": "en",
+                  "lines": [
+                        "Seek, then, this wisdom by prostrations, by questions, and by service, that those learned men who see its principles may instruct thee."
+                  ]
+            },
+            {
+                  "begin": "2266.368",
+                  "end": "2275.248",
+                  "id": "f000303",
+                  "language": "en",
+                  "lines": [
+                        "Having known this, thou shalt not again fall into this delusion; for thou wilt see all things first in thyself and then in Me."
+                  ]
+            },
+            {
+                  "begin": "2275.248",
+                  "end": "2283.36",
+                  "id": "f000304",
+                  "language": "en",
+                  "lines": [
+                        "Although thou wert the most sinful of all sinful men, thou wilt cross over all trespasses by the boat of knowledge."
+                  ]
+            },
+            {
+                  "begin": "2283.36",
+                  "end": "2292.792",
+                  "id": "f000305",
+                  "language": "en",
+                  "lines": [
+                        "As the natural fire, O Arjuna, reduceth the wood to ashes, so the fire of knowledge reduceth all actions to ashes."
+                  ]
+            },
+            {
+                  "begin": "2292.792",
+                  "end": "2298.288",
+                  "id": "f000306",
+                  "language": "en",
+                  "lines": [
+                        "There is not anything in this world to be compared with knowledge as a purifier."
+                  ]
+            },
+            {
+                  "begin": "2298.288",
+                  "end": "2303.928",
+                  "id": "f000307",
+                  "language": "en",
+                  "lines": [
+                        "He who is perfect in devotion, in due time findeth it in his own soul."
+                  ]
+            },
+            {
+                  "begin": "2303.928",
+                  "end": "2314.824",
+                  "id": "f000308",
+                  "language": "en",
+                  "lines": [
+                        "He who hath faith findeth knowledge; above all, he who hath gotten the better of his passions; and having obtained it, he quickly enjoyeth supreme repose."
+                  ]
+            },
+            {
+                  "begin": "2314.824",
+                  "end": "2320.944",
+                  "id": "f000309",
+                  "language": "en",
+                  "lines": [
+                        "But the ignorant, and the man without faith, whose spirit is full of doubt, is lost."
+                  ]
+            },
+            {
+                  "begin": "2320.944",
+                  "end": "2328.36",
+                  "id": "f000310",
+                  "language": "en",
+                  "lines": [
+                        "Neither this world, nor that which is above, nor happiness, can be enjoyed by the man of doubting mind."
+                  ]
+            },
+            {
+                  "begin": "2328.36",
+                  "end": "2337.528",
+                  "id": "f000311",
+                  "language": "en",
+                  "lines": [
+                        "Actions do not fetter the man who is self-possessed, who hath renounced action by Yoga, who hath destroyed doubt by knowledge."
+                  ]
+            },
+            {
+                  "begin": "2337.528",
+                  "end": "2343.24",
+                  "id": "f000312",
+                  "language": "en",
+                  "lines": [
+                        "Therefore slay this doubt, which is born of ignorance, by the sword of knowledge."
+                  ]
+            },
+            {
+                  "begin": "2343.24",
+                  "end": "2348.184",
+                  "id": "f000313",
+                  "language": "en",
+                  "lines": [
+                        "Give thyself to devotion, and arise, O son of Bh\u00e1rata."
+                  ]
+            },
+            {
+                  "begin": "2348.184",
+                  "end": "2349.408",
+                  "id": "f000314",
+                  "language": "en",
+                  "lines": [
+                        "LECTURE 5"
+                  ]
+            },
+            {
+                  "begin": "2349.408",
+                  "end": "2351.856",
+                  "id": "f000315",
+                  "language": "en",
+                  "lines": [
+                        "\u201cYOGA BY RENOUNCING WORKS.\u201d"
+                  ]
+            },
+            {
+                  "begin": "2351.856",
+                  "end": "2353.248",
+                  "id": "f000316",
+                  "language": "en",
+                  "lines": [
+                        "ARJUNA said."
+                  ]
+            },
+            {
+                  "begin": "2353.248",
+                  "end": "2359.824",
+                  "id": "f000317",
+                  "language": "en",
+                  "lines": [
+                        "Thou now speakest, Krishna of the renunciation of works, and now again of performing them."
+                  ]
+            },
+            {
+                  "begin": "2359.824",
+                  "end": "2363.016",
+                  "id": "f000318",
+                  "language": "en",
+                  "lines": [
+                        "Tell me positively which of the two is better."
+                  ]
+            },
+            {
+                  "begin": "2363.016",
+                  "end": "2364.36",
+                  "id": "f000319",
+                  "language": "en",
+                  "lines": [
+                        "KRISHNA said."
+                  ]
+            },
+            {
+                  "begin": "2364.36",
+                  "end": "2375.304",
+                  "id": "f000320",
+                  "language": "en",
+                  "lines": [
+                        "Renunciation (of works) and Yoga by works, both procure the highest bliss; but of these Yoga by works is better than renunciation of works."
+                  ]
+            },
+            {
+                  "begin": "2375.304",
+                  "end": "2385.672",
+                  "id": "f000321",
+                  "language": "en",
+                  "lines": [
+                        "He should be regarded as always a Sanny\u00e1s\u00ed who neither hateth nor desireth; he who is free from the pairs of opposites is easily set free from bonds."
+                  ]
+            },
+            {
+                  "begin": "2385.672",
+                  "end": "2396.4",
+                  "id": "f000322",
+                  "language": "en",
+                  "lines": [
+                        "Children\u2014not the learned\u2014speak of the S\u00e1nkhya and Yoga (doctrines) as different; but he who devoteth himself to either obtaineth the fruit of both."
+                  ]
+            },
+            {
+                  "begin": "2396.4",
+                  "end": "2401.008",
+                  "id": "f000323",
+                  "language": "en",
+                  "lines": [
+                        "The seat which the S\u00e1nkhyas obtain is reached by Yog\u00eds also."
+                  ]
+            },
+            {
+                  "begin": "2401.008",
+                  "end": "2405.808",
+                  "id": "f000324",
+                  "language": "en",
+                  "lines": [
+                        "He seeth truly who seeth that the S\u00e1nkhya and Yoga are one."
+                  ]
+            },
+            {
+                  "begin": "2405.808",
+                  "end": "2409.528",
+                  "id": "f000325",
+                  "language": "en",
+                  "lines": [
+                        "Renunciation is hard to gain without devotion."
+                  ]
+            },
+            {
+                  "begin": "2409.528",
+                  "end": "2414.568",
+                  "id": "f000326",
+                  "language": "en",
+                  "lines": [
+                        "The muni who is fixed in devotion goes to Brahma without delay."
+                  ]
+            },
+            {
+                  "begin": "2414.568",
+                  "end": "2428.056",
+                  "id": "f000327",
+                  "language": "en",
+                  "lines": [
+                        "He who is fixed in devotion, whose self is pure, who is master of himself and subdueth the senses, who identifieth himself with everything that existeth, is not polluted even though he work."
+                  ]
+            },
+            {
+                  "begin": "2428.056",
+                  "end": "2447.16",
+                  "id": "f000328",
+                  "language": "en",
+                  "lines": [
+                        "The man of devotion who knoweth the truth thinketh, that he doeth nothing when seeing, hearing, touching, smelling, eating, moving, sleeping, breathing, talking, throwing out, taking, opening or closing the eyelids; affirming that the senses deal with the objects of sense."
+                  ]
+            },
+            {
+                  "begin": "2447.16",
+                  "end": "2456.688",
+                  "id": "f000329",
+                  "language": "en",
+                  "lines": [
+                        "He who casting off attachment offereth his action to Brahma, is not tainted by sin, as the lotus leaf is not (tainted) in water."
+                  ]
+            },
+            {
+                  "begin": "2456.688",
+                  "end": "2468.232",
+                  "id": "f000330",
+                  "language": "en",
+                  "lines": [
+                        "Devotees, giving up attachment, perform actions for the purifying of themselves by the body, the heart (manas), by the mind, and even by the senses alone."
+                  ]
+            },
+            {
+                  "begin": "2468.232",
+                  "end": "2474.16",
+                  "id": "f000331",
+                  "language": "en",
+                  "lines": [
+                        "The devout man who hath abandoned the fruit of works attaineth the highest peace."
+                  ]
+            },
+            {
+                  "begin": "2474.16",
+                  "end": "2479.944",
+                  "id": "f000332",
+                  "language": "en",
+                  "lines": [
+                        "The undevout, attached to the fruit (of works), through desire, is bound."
+                  ]
+            },
+            {
+                  "begin": "2479.944",
+                  "end": "2492.664",
+                  "id": "f000333",
+                  "language": "en",
+                  "lines": [
+                        "The man who hath his passions in subjection, and with his mind forsaketh all works, his soul sitteth at rest in the nine-gate city of its abode, neither acting nor causing to act."
+                  ]
+            },
+            {
+                  "begin": "2492.664",
+                  "end": "2502.768",
+                  "id": "f000334",
+                  "language": "en",
+                  "lines": [
+                        "The Lord createth neither the faculty of working nor works, nor the connection of works and fruit; Nature (Prakriti) alone worketh."
+                  ]
+            },
+            {
+                  "begin": "2502.768",
+                  "end": "2505.984",
+                  "id": "f000335",
+                  "language": "en",
+                  "lines": [
+                        "The Lord receiveth the sin or merit of none."
+                  ]
+            },
+            {
+                  "begin": "2505.984",
+                  "end": "2518.488",
+                  "id": "f000336",
+                  "language": "en",
+                  "lines": [
+                        "Mankind are led astray by their reason being obscured by ignorance; but when that ignorance of their souls is destroyed by knowledge, the Supreme is revealed by knowledge, shining as the sun."
+                  ]
+            },
+            {
+                  "begin": "2518.488",
+                  "end": "2532.408",
+                  "id": "f000337",
+                  "language": "en",
+                  "lines": [
+                        "Those whose thoughts are on him (That) whose souls are in him, whose confidence is in him, and whose asylum is in him, are by knowledge purified from all their offences, and go from whence they shall never return."
+                  ]
+            },
+            {
+                  "begin": "2532.408",
+                  "end": "2541.216",
+                  "id": "f000338",
+                  "language": "en",
+                  "lines": [
+                        "The wise regard a Brahman gifted with knowledge and modesty, a cow, an elephant, a dog, and a Svap\u00e1ka as alike."
+                  ]
+            },
+            {
+                  "begin": "2541.216",
+                  "end": "2550.696",
+                  "id": "f000339",
+                  "language": "en",
+                  "lines": [
+                        "Even here, those have conquered the world whose minds are equable: since Brahma is sinless and equable, therefore they abide in Brahma."
+                  ]
+            },
+            {
+                  "begin": "2550.696",
+                  "end": "2563.2",
+                  "id": "f000340",
+                  "language": "en",
+                  "lines": [
+                        "He who knoweth Brahma, whose mind is fixed, who is not deluded, and who abideth in Brahma, doth not rejoice finding anything agreeable, nor grieve on finding anything disagreeable."
+                  ]
+            },
+            {
+                  "begin": "2563.2",
+                  "end": "2576.136",
+                  "id": "f000341",
+                  "language": "en",
+                  "lines": [
+                        "He whose soul is not attached to external objects obtaineth the happiness that is in (one's) self; his self joined by devotion (Yoga) , to Brahma, enjoyeth eternal bliss."
+                  ]
+            },
+            {
+                  "begin": "2576.136",
+                  "end": "2582.088",
+                  "id": "f000342",
+                  "language": "en",
+                  "lines": [
+                        "The enjoyments which proceed from the senses? are as the wombs of future pain."
+                  ]
+            },
+            {
+                  "begin": "2582.088",
+                  "end": "2587.44",
+                  "id": "f000343",
+                  "language": "en",
+                  "lines": [
+                        "The wise man, knowing that they begin and end, delighteth not in these."
+                  ]
+            },
+            {
+                  "begin": "2587.44",
+                  "end": "2597.04",
+                  "id": "f000344",
+                  "language": "en",
+                  "lines": [
+                        "He who can bear up against the violence which is produced from lust and anger in this mortal life, is devout (yukta), and a happy man."
+                  ]
+            },
+            {
+                  "begin": "2597.04",
+                  "end": "2607.264",
+                  "id": "f000345",
+                  "language": "en",
+                  "lines": [
+                        "The man who is happy in his heart, at rest in his mind, and enlightened within, is a Yog\u00ed, one with Brahma, and findeth nirv\u00e1na in Him."
+                  ]
+            },
+            {
+                  "begin": "2607.264",
+                  "end": "2618.4",
+                  "id": "f000346",
+                  "language": "en",
+                  "lines": [
+                        "Such Rishis as are purified from their offences, freed from doubt, of subdued minds, and interested in the good of all mankind, obtain nirv\u00e1na in Brahma."
+                  ]
+            },
+            {
+                  "begin": "2618.4",
+                  "end": "2627.52",
+                  "id": "f000347",
+                  "language": "en",
+                  "lines": [
+                        "Such as are free from lust and anger, of humble minds and subdued spirits, and who know the soul, are near to nirv\u00e1na in Brahma."
+                  ]
+            },
+            {
+                  "begin": "2627.52",
+                  "end": "2653.728",
+                  "id": "f000348",
+                  "language": "en",
+                  "lines": [
+                        "The muni who excludeth (from his mind) external objects, (concentrating) the visual power between the brows, and making the upward and downward life-breaths, ever sending both through the nostrils, who restraineth the senses, mind and understanding, intent on final emancipation, from whom desire, fear, and wrath have departed, is indeed forever free (from birth and death)."
+                  ]
+            },
+            {
+                  "begin": "2653.728",
+                  "end": "2664.384",
+                  "id": "f000349",
+                  "language": "en",
+                  "lines": [
+                        "He knowing me to be the enjoyer of sacrifices and austerities, the mighty lord of all the worlds, and the friend of every living being, attaineth to peace."
+                  ]
+            },
+            {
+                  "begin": "2664.384",
+                  "end": "2665.752",
+                  "id": "f000350",
+                  "language": "en",
+                  "lines": [
+                        "LECTURE 6"
+                  ]
+            },
+            {
+                  "begin": "2665.752",
+                  "end": "2668.08",
+                  "id": "f000351",
+                  "language": "en",
+                  "lines": [
+                        "\u201cYOGA BY SELF-RESTRAINT.\u201d"
+                  ]
+            },
+            {
+                  "begin": "2668.08",
+                  "end": "2669.424",
+                  "id": "f000352",
+                  "language": "en",
+                  "lines": [
+                        "KRISHNA said."
+                  ]
+            },
+            {
+                  "begin": "2669.424",
+                  "end": "2681.208",
+                  "id": "f000353",
+                  "language": "en",
+                  "lines": [
+                        "He is both a Yog\u00ed and a Sanny\u00e1s\u00ed who performeth that which he hath to do independent of the fruit thereof; not he who liveth without the sacrificial fire and without action."
+                  ]
+            },
+            {
+                  "begin": "2681.208",
+                  "end": "2687.424",
+                  "id": "f000354",
+                  "language": "en",
+                  "lines": [
+                        "Learn, O son of P\u00e1ndu, that what they call renunciation is the same with Yoga."
+                  ]
+            },
+            {
+                  "begin": "2687.424",
+                  "end": "2693.088",
+                  "id": "f000355",
+                  "language": "en",
+                  "lines": [
+                        "He cannot be a Yog\u00ed, who, hath not renounced all worldly schemes."
+                  ]
+            },
+            {
+                  "begin": "2693.088",
+                  "end": "2702.664",
+                  "id": "f000356",
+                  "language": "en",
+                  "lines": [
+                        "Works are said to be the means by which a man who wisheth, may attain devotion; so rest is called the means for him who hath attained devotion."
+                  ]
+            },
+            {
+                  "begin": "2702.664",
+                  "end": "2711.256",
+                  "id": "f000357",
+                  "language": "en",
+                  "lines": [
+                        "He who is not attached to the objects of the senses or to works, renouncing all fancies, is called a perfect Yog\u00ed."
+                  ]
+            },
+            {
+                  "begin": "2711.256",
+                  "end": "2717.328",
+                  "id": "f000358",
+                  "language": "en",
+                  "lines": [
+                        "He should raise himself by himself: he should not suffer his soul to be depressed."
+                  ]
+            },
+            {
+                  "begin": "2717.328",
+                  "end": "2723.304",
+                  "id": "f000359",
+                  "language": "en",
+                  "lines": [
+                        "Self is the friend of self; and, in like manner, self is its own enemy."
+                  ]
+            },
+            {
+                  "begin": "2723.304",
+                  "end": "2733.072",
+                  "id": "f000360",
+                  "language": "en",
+                  "lines": [
+                        "Self is the friend of him who by himself hath conquered self; but to him who hath not restrained himself, self becometh an enemy."
+                  ]
+            },
+            {
+                  "begin": "2733.072",
+                  "end": "2742.528",
+                  "id": "f000361",
+                  "language": "en",
+                  "lines": [
+                        "The soul of him who is self-restrained and placid, is self-contained in heat and cold, in pain and pleasure, in honor and disgrace."
+                  ]
+            },
+            {
+                  "begin": "2742.528",
+                  "end": "2758.32",
+                  "id": "f000362",
+                  "language": "en",
+                  "lines": [
+                        "The Yog\u00ed who is content with divine and human knowledge, who is unmoved (by any vexations of the world), whose senses are subdued, and to whom a clod, a stone, or gold are alike, is called a perfect devotee (yukta)."
+                  ]
+            },
+            {
+                  "begin": "2758.32",
+                  "end": "2770.056",
+                  "id": "f000363",
+                  "language": "en",
+                  "lines": [
+                        "He is esteemed highest who thinketh alike about companions, friends, enemies, strangers, the indifferent, foreigners; and relations, yea to good and evil men."
+                  ]
+            },
+            {
+                  "begin": "2770.056",
+                  "end": "2781.216",
+                  "id": "f000364",
+                  "language": "en",
+                  "lines": [
+                        "Let the Yog\u00ed constantly practise devotion fixed in a secluded spot alone, with his mind and self-subdued, without expectations and without belongings."
+                  ]
+            },
+            {
+                  "begin": "2781.216",
+                  "end": "2789.712",
+                  "id": "f000365",
+                  "language": "en",
+                  "lines": [
+                        "Fixing his seat firmly in a clean spot, neither high nor low, covered with a cloth, a deerskin and kusa grass."
+                  ]
+            },
+            {
+                  "begin": "2789.712",
+                  "end": "2802.312",
+                  "id": "f000366",
+                  "language": "en",
+                  "lines": [
+                        "There fixing his heart (manas) on one object, restraining his thoughts, senses and actions, seated on (that) seat he should practise, yoga for the purifying of the self."
+                  ]
+            },
+            {
+                  "begin": "2802.312",
+                  "end": "2825.304",
+                  "id": "f000367",
+                  "language": "en",
+                  "lines": [
+                        "Holding his body, head, and neck, even and unmoved, (remaining) steady, looking at the tip of his nose and not looking around; tranquil in soul, free from anxiety, and adhering to the rules of Brahmacharis, he should restrain his mind, (concentrate it) on me, and sit down engaged in devotion, meditating and intent on me."
+                  ]
+            },
+            {
+                  "begin": "2825.304",
+                  "end": "2835.36",
+                  "id": "f000368",
+                  "language": "en",
+                  "lines": [
+                        "The Yog\u00ed, thus constantly devoting his self to abstraction, whose mind is restrained, attaineth peace, the supreme nirv\u00e1na that is in Me."
+                  ]
+            },
+            {
+                  "begin": "2835.36",
+                  "end": "2844.96",
+                  "id": "f000369",
+                  "language": "en",
+                  "lines": [
+                        "Devotion is not for him who eateth too much, or for him who eateth too little; nor for him who sleepeth too much, or who is ever wakeful."
+                  ]
+            },
+            {
+                  "begin": "2844.96",
+                  "end": "2856.576",
+                  "id": "f000370",
+                  "language": "en",
+                  "lines": [
+                        "The devotion which destroyeth trouble belongeth to him who is moderate in eating and in recreation, whose inclinations are moderate in action, and who is moderate in sleep."
+                  ]
+            },
+            {
+                  "begin": "2856.576",
+                  "end": "2866.968",
+                  "id": "f000371",
+                  "language": "en",
+                  "lines": [
+                        "When he fixeth his well-restrained thoughts on himself alone, and is indifferent to every object of desire, then he is called devoted (yukta)."
+                  ]
+            },
+            {
+                  "begin": "2866.968",
+                  "end": "2878.032",
+                  "id": "f000372",
+                  "language": "en",
+                  "lines": [
+                        "The Yog\u00ed of a subdued mind, thus employed in the exercise of his devotion, is compared to a lamp, standing in a place without wind, which flickereth not."
+                  ]
+            },
+            {
+                  "begin": "2878.032",
+                  "end": "2898.984",
+                  "id": "f000373",
+                  "language": "en",
+                  "lines": [
+                        "When the mind is at rest, restrained by the practice of Yoga, and when seeing the self by the self, is pleased in the self, He becometh acquainted with that boundless pleasure which is far more worthy of the understanding than that which ariseth from the senses; depending upon which, the mind moveth not from its principles;"
+                  ]
+            },
+            {
+                  "begin": "2898.984",
+                  "end": "2908.368",
+                  "id": "f000374",
+                  "language": "en",
+                  "lines": [
+                        "Which having obtained, he respecteth no other acquisition so great as it; on which depending, he is not moved by the severest pain."
+                  ]
+            },
+            {
+                  "begin": "2908.368",
+                  "end": "2917.296",
+                  "id": "f000375",
+                  "language": "en",
+                  "lines": [
+                        "This disunion from the conjunction of pain is called Yoga. This Yoga must be practised with steadiness and a resolute heart."
+                  ]
+            },
+            {
+                  "begin": "2917.296",
+                  "end": "2935.344",
+                  "id": "f000376",
+                  "language": "en",
+                  "lines": [
+                        "When he hath abandoned every desire that ariseth from the imagination, and subdued with his mind every inclination of the senses, he may, by degrees, find rest; and having, by a steady resolution, fixed his mind within itself, let him cease to think."
+                  ]
+            },
+            {
+                  "begin": "2935.344",
+                  "end": "2942.904",
+                  "id": "f000377",
+                  "language": "en",
+                  "lines": [
+                        "Wheresoever the unsteady mind wandereth, he should subdue it, bring it back, and place it on the self."
+                  ]
+            },
+            {
+                  "begin": "2942.904",
+                  "end": "2953.008",
+                  "id": "f000378",
+                  "language": "en",
+                  "lines": [
+                        "Supreme happiness attendeth the man whose heart is thus at peace; whose passions are thus subdued; who is one with Brahma, and free from sin."
+                  ]
+            },
+            {
+                  "begin": "2953.008",
+                  "end": "2962.584",
+                  "id": "f000379",
+                  "language": "en",
+                  "lines": [
+                        "The man who is thus constantly in the exercise of the soul, and free from sin, enjoyeth the eternal happiness of union with Brahma."
+                  ]
+            },
+            {
+                  "begin": "2962.584",
+                  "end": "2973.336",
+                  "id": "f000380",
+                  "language": "en",
+                  "lines": [
+                        "The man whose mind is endued with this devotion, and looketh on all things alike, beholdeth the supreme Soul in all things, and all things in the supreme Soul."
+                  ]
+            },
+            {
+                  "begin": "2973.336",
+                  "end": "2981.592",
+                  "id": "f000381",
+                  "language": "en",
+                  "lines": [
+                        "He who beholdeth me in all things, and beholdeth all things in me, I forsake not him, and he forsaketh not me."
+                  ]
+            },
+            {
+                  "begin": "2981.592",
+                  "end": "2990.424",
+                  "id": "f000382",
+                  "language": "en",
+                  "lines": [
+                        "The Yog\u00ed who worshippeth me as abiding in all things, holding that all is one, dwelleth in me, however he may be living."
+                  ]
+            },
+            {
+                  "begin": "2990.424",
+                  "end": "3001.68",
+                  "id": "f000383",
+                  "language": "en",
+                  "lines": [
+                        "The man, O Arjuna, who, from what passeth in his own breast, whether it be pain or pleasure, beholdeth the same in others, is esteemed the best Yog\u00ed."
+                  ]
+            },
+            {
+                  "begin": "3001.68",
+                  "end": "3003.072",
+                  "id": "f000384",
+                  "language": "en",
+                  "lines": [
+                        "ARJUNA said."
+                  ]
+            },
+            {
+                  "begin": "3003.072",
+                  "end": "3011.928",
+                  "id": "f000385",
+                  "language": "en",
+                  "lines": [
+                        "From the fickleness of our natures, I conceive not the permanent duration of this doctrine of equanimity which thou hast told me."
+                  ]
+            },
+            {
+                  "begin": "3011.928",
+                  "end": "3018.336",
+                  "id": "f000386",
+                  "language": "en",
+                  "lines": [
+                        "The mind, O Krishna, is naturally unsteady, turbulent, strong, and stubborn."
+                  ]
+            },
+            {
+                  "begin": "3018.336",
+                  "end": "3021.984",
+                  "id": "f000387",
+                  "language": "en",
+                  "lines": [
+                        "I esteem it as difficult to restrain as the wind."
+                  ]
+            },
+            {
+                  "begin": "3021.984",
+                  "end": "3023.328",
+                  "id": "f000388",
+                  "language": "en",
+                  "lines": [
+                        "KRISHNA said."
+                  ]
+            },
+            {
+                  "begin": "3023.328",
+                  "end": "3035.064",
+                  "id": "f000389",
+                  "language": "en",
+                  "lines": [
+                        "The mind, O valiant youth, is undoubtedly unsteady, and difficult to be confined; yet, it may be restrained by practice and indifference (to worldly objects.)"
+                  ]
+            },
+            {
+                  "begin": "3035.064",
+                  "end": "3048.888",
+                  "id": "f000390",
+                  "language": "en",
+                  "lines": [
+                        "In my opinion, this divine discipline, which is called Yoga, is hard to be attained by him who hath not his soul in subjection; but it may be acquired by him who taketh pains, and is self-restrained."
+                  ]
+            },
+            {
+                  "begin": "3048.888",
+                  "end": "3050.28",
+                  "id": "f000391",
+                  "language": "en",
+                  "lines": [
+                        "ARJUNA said."
+                  ]
+            },
+            {
+                  "begin": "3050.28",
+                  "end": "3063.48",
+                  "id": "f000392",
+                  "language": "en",
+                  "lines": [
+                        "Whither, O Krishna, doth the man go after death, who, although he be endued with faith, hath not obtained perfection in his devotion, because his unsubdued mind wandered from the discipline?"
+                  ]
+            },
+            {
+                  "begin": "3063.48",
+                  "end": "3071.136",
+                  "id": "f000393",
+                  "language": "en",
+                  "lines": [
+                        "Doth he not perish like a broken cloud, being unsteadfast and deluded in the path (leading) to Brahma?"
+                  ]
+            },
+            {
+                  "begin": "3071.136",
+                  "end": "3079.68",
+                  "id": "f000394",
+                  "language": "en",
+                  "lines": [
+                        "Be pleased, O Krishna, to destroy completely this doubt of mine, for none but thyself is able to destroy this doubt."
+                  ]
+            },
+            {
+                  "begin": "3079.68",
+                  "end": "3081.024",
+                  "id": "f000395",
+                  "language": "en",
+                  "lines": [
+                        "KRISHNA said."
+                  ]
+            },
+            {
+                  "begin": "3081.024",
+                  "end": "3085.248",
+                  "id": "f000396",
+                  "language": "en",
+                  "lines": [
+                        "His destruction is found neither here nor in the world above."
+                  ]
+            },
+            {
+                  "begin": "3085.248",
+                  "end": "3089.472",
+                  "id": "f000397",
+                  "language": "en",
+                  "lines": [
+                        "No man who hath done good goeth unto an evil place."
+                  ]
+            },
+            {
+                  "begin": "3089.472",
+                  "end": "3109.608",
+                  "id": "f000398",
+                  "language": "en",
+                  "lines": [
+                        "A man whose devotions have been broken off by death, having enjoyed for unnumbered years the rewards of his virtues in the regions above, at length is born again in some holy and respectable family; Or else he is born in the house of some learned Yog\u00ed. But such a birth in this life is difficult to attain."
+                  ]
+            },
+            {
+                  "begin": "3109.608",
+                  "end": "3118.584",
+                  "id": "f000399",
+                  "language": "en",
+                  "lines": [
+                        "Being thus born again, he is endued with the knowledge which he had in a former body; and here again he beginneth to labour for perfection."
+                  ]
+            },
+            {
+                  "begin": "3118.584",
+                  "end": "3123.456",
+                  "id": "f000400",
+                  "language": "en",
+                  "lines": [
+                        "By that former practice he is led on, even without his will."
+                  ]
+            },
+            {
+                  "begin": "3123.456",
+                  "end": "3129.96",
+                  "id": "f000401",
+                  "language": "en",
+                  "lines": [
+                        "He who only desireth to know Yoga, goeth beyond the Brahmic word (the Vedas)."
+                  ]
+            },
+            {
+                  "begin": "3129.96",
+                  "end": "3141.168",
+                  "id": "f000402",
+                  "language": "en",
+                  "lines": [
+                        "The Yog\u00ed who, labouring with all his might, is purified of his offences, and, after many births, is made perfect, at length goeth to the supreme abode."
+                  ]
+            },
+            {
+                  "begin": "3141.168",
+                  "end": "3161.424",
+                  "id": "f000403",
+                  "language": "en",
+                  "lines": [
+                        "The Yog\u00ed is superior to ascetics, respected above the men of knowledge, and superior to the doers of works; wherefore, O Arjuna, resolve thou to become a Yog\u00ed. Of all Yog\u00eds, I respect him as the most devout, who hath faith in me, and who serveth me with his self stayed on me."
+                  ]
+            }
+      ]
+}
