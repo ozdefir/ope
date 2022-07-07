@@ -19,7 +19,7 @@
 <script src="https://ozdefir.github.io/oku-player/okuplayer.js"></script>
 <script >
 urlsettings = {};
-var query = location.href.match(/\?([^?#]+)/)[1];
+var query = window.top.location.href.match(/\?([^?#]+)/)[1];
  query = query.split('&');
 for(var i = 0; i< query.length; i++){
     var setting = query[i].split('=');
@@ -27,26 +27,87 @@ for(var i = 0; i< query.length; i++){
 }
 console.log(urlsettings);
 
-var okuConfig = {
-	xhtmlPath:urlsettings.x,
-	syncmapPath:urlsettings.s,
-	audioPaths:[urlsettings.a],
-	settings:{
-		continuous:true,
-		autoscroll:true,
-		pagedView:true,
-        startFrom:urlsettings.sf
-	},
-	meta:{
-		book:urlsettings.b,
-		author:urlsettings.au,
-		chapter:urlsettings.n,
-		info:urlsettings.i,
-	}
-	
-};
-var okuPlayerInstanz = new OkuPlayer(okuConfig);
 
+if(urlsettings.dir){
+	const range = document.createRange()
+	const frag = range.createContextualFragment(`
+	<style>
+		#chapters-list-div{
+			max-width: 690px;
+			text-align:center;
+			margin: 50px auto;
+		}
+		#chapters-list-div thead{
+			display:none;
+		}
+		#chapters-list-div table{
+			width:100%;
+		}
+		#chapters-list-div table td{
+			height:3em;
+		}
+	</style>
+	`
+	)
+	document.querySelector("head").append(frag) 
+
+	let contents = document.createElement("div");
+	contents.id = "chapters-list-div";
+	document.body.appendChild(contents)
+	contents.innerHTML = "<table><tbody></tbody></table>"
+
+	fetchChapterList(urlsettings.dir)
+}
+else{
+	okuInit(urlsettings)
+}
+
+
+function fetchChapterList(dir) {
+	let url = `${dir}/contents.json`;
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", url);
+    xhr.onload = function() {
+        if (xhr.readyState === xhr.DONE && xhr.status === 200) {
+			let chapterList = JSON.parse(xhr.response);
+			let i = 1
+			for (chapter of chapterList){
+				document.querySelector("tbody").innerHTML += `
+				<tr><td>
+					<a href="OkuPlayer.html?x=${dir}/${i}.xhtml&s=${dir}/${i}.json&a=${dir}/${i}.mp3">${chapter}</a>
+				</td></tr>`;
+				i++;
+			}
+			document.body.style.visibility = "visible";
+        }
+    };
+    xhr.send();
+}
+
+
+
+
+function okuInit(urlsettings){
+	var okuConfig = {
+		xhtmlPath:urlsettings.x,
+		syncmapPath:urlsettings.s,
+		audioPaths:[urlsettings.a],
+		settings:{
+			continuous:true,
+			autoscroll:true,
+			pagedView:true,
+			startFrom:urlsettings.sf
+		},
+		meta:{
+			book:urlsettings.b,
+			author:urlsettings.au,
+			chapter:urlsettings.n,
+			info:urlsettings.i,
+		}
+		
+	};
+	var okuPlayerInstanz = new OkuPlayer(okuConfig);
+}
 </script>
 </body>
 </html>
